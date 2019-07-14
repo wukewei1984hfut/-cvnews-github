@@ -36,7 +36,7 @@
 
 [半监督学习的悄然革命](http://www.sohu.com/a/315540124_473283)  
 
-[ 篇论文为你呈现「迁移学习」研究全貌 _ 论文集精选 #04 - 知乎](https://zhuanlan.zhihu.com/p/30674235)  
+[14篇论文为你呈现「迁移学习」研究全貌 _ 论文集精选 #04 - 知乎](https://zhuanlan.zhihu.com/p/30674235)  
 
 [AI研究前沿 | 超强半监督学习 MixMatch](https://cloud.tencent.com/developer/article/1430302)  
 
