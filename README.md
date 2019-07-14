@@ -1,7 +1,7 @@
 # cvnews
 ## 目录
-### 1、[机械学习-入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
-### 2、[机械学习/人工智能——前沿](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF)  
+### 1、[机器学习——入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
+### 2、[机器学习/人工智能——前沿](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF)  
 ### 3、[深度学习——入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
 ### 4、[深度学习——前沿](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%89%8D%E6%B2%BF)  
 ### 5、[课程/教程](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B)  
