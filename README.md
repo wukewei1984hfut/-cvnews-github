@@ -204,7 +204,7 @@
 
 [深度学习网络模型大全来了（基于TensorFlow和PyTorch的开源复现）](https://cloud.tencent.com/developer/article/1446095)  
 
-[PyTorch Hub发布！一行代码调用最潮模型](ttps://tech.sina.com.cn/csj/2019-06-11/doc-ihvhiews8066092.shtml)  
+[PyTorch Hub发布！一行代码调用最潮模型](https://tech.sina.com.cn/csj/2019-06-11/doc-ihvhiews8066092.shtml)  
 
 
 ## 学术论文写作
