@@ -1,6 +1,6 @@
 # cvnews
 ## 目录
-### 1、机械学习-入门
+### 1、[机械学习-入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
 ### 2、机械学习/人工智能——前沿
 ### 3、深度学习——入门
 ### 4、深度学习——前沿
