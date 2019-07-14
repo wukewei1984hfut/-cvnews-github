@@ -1,18 +1,18 @@
 # cvnews
 ## 目录
 ### 1、[机械学习-入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
-### 2、机械学习/人工智能——前沿
-### 3、深度学习——入门
-### 4、深度学习——前沿
-### 5、课程/教程
-### 6、国际顶刊/顶会
-### 7、目标识别/检测（region level）
-### 8、图像分割（pixel level）
-### 9、视频/行为识别（sequence level）
-### 10、图深度学习/因果推理
-### 11、强化学习
-### 12、GitHub集合
-### 13、学术论文写作
+### 2、[机械学习/人工智能——前沿](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF)  
+### 3、[深度学习——入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
+### 4、[深度学习——前沿](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%89%8D%E6%B2%BF)  
+### 5、[课程/教程](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B)  
+### 6、[国际顶刊/顶会](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B)
+### 7、[目标识别/检测（region level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E7%9B%AE%E6%A0%87%E8%AF%86%E5%88%AB%E6%A3%80%E6%B5%8Bregion-level)  
+### 8、[图像分割（pixel level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2pixel-level)  
+### 9、[视频/行为识别（sequence level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%ABsequence-level)
+### 10、[图深度学习/因果推理](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9B%A0%E6%9E%9C%E6%8E%A8%E7%90%86)
+### 11、[强化学习](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)  
+### 12、[GitHub集合](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#github-%E9%9B%86%E5%90%88)  
+### 13、[学术论文写作](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C)
 
 ## 机械学习-入门
 [机器学习标准教科书PRML的Python实现：最佳读书伴侣](https://www.jiqizhixin.com/articles/2017-11-27-3)  
