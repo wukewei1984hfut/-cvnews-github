@@ -25,6 +25,9 @@
 
 [十四年的NYU教学精华，开放书《机器学习基础》第二版](http://www.sohu.com/a/314614024_129720)  
 
+[吴恩达机器学习- 网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1004570029#/learn/video?lessonId=1049052745&courseId=1004570029
+)  
+
 ## 机器学习/人工智能-前沿
 
 [大数据时代小样本如何学习？看这篇最新《小样本学习方法综述》论文 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1421759)  
@@ -68,7 +71,12 @@
 
 [你用什么方法调试深度神经网络？这里有四种简单的方式哦 _ 机器之心](https://www.jiqizhixin.com/articles/19033101)    
 
-[李飞飞高徒、AI“网红”Karpathy：训练神经网络不得不看的33个技巧 - 科技 - 真头条 - 真主角](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&idx=2&mid=2652043772&sn=3e87e5231bfd714b9c2a22216d237630)  
+[李飞飞高徒、AI“网红”Karpathy：训练神经网络不得不看的33个技巧 - 科技 - 真头条 - 真主角](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&idx=2&mid=2652043772&sn=3e87e5231bfd714b9c2a22216d237630)   
+
+[斯坦福2017季CS231n深度视觉识别课程视频（by Fei-Fei Li）](https://www.bilibili.com/video/av13260183?from=search&seid=12271009111252913898)  
+[吴恩达授课，斯坦福CS230深度学习课程资源开放](https://www.jiqizhixin.com/articles/2018-06-21-6)  
+
+[CNN 中的十种关键变革操作（从2012到2018）](https://zhuanlan.zhihu.com/p/28749411)  
 
 ## 深度学习-前沿
 
@@ -90,7 +98,10 @@
 
 [深度学习理论与架构最新进展综述论文，66页pdf，333篇参考文献](http://www.sohu.com/a/302145320_505819)  
 
-[CVPR2019:好的模型，迁移学习效果就更好吗？Google Brain最新结论](https://www.codercto.com/a/86562.)  
+[CVPR2019:好的模型，迁移学习效果就更好吗？Google Brain最新结论](https://www.codercto.com/a/86562.)   
+
+[伯克利 AI 研究院提出新的数据增强算法，比谷歌大脑的 AutoAugment 更强](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495969&idx=3&sn=1e5970ff6e04af6c4ae896763059b6c5&chksm=ec5446a6db23cfb07ee73a284bb66ac9f95364c745a2af118529aa8faac5152e71fbb0ab5404&scene=0&xtrack=1&key=f15af84d64e2a59cb4c4471c048579975600d0dad07433203c872c049af60795fde9a80384b9811955bd810378fd03472d5b57f7df88e3e7b0f564436ba4c2a48956fcb4cc9016b7a2e0096a2df717d7&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=aytSRU4Ds%2BnbATQGvv5E4%2BuEoiP9RRKTFhTTkUT%2FfSVENn0CEPCvNulJ4ki3NP3t)  
+
 
 
 ## 课程/教程
@@ -120,6 +131,9 @@
 
 [五年后的计算机视觉会是什么样？和CV先驱们一同畅想（下） | CVPR2019](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495969&idx=1&sn=36935922c5fd6ada4f057a01711a95fb&chksm=ec5446a6db23cfb0df9d805ae6a33b905899dd305277f08c54b4e1f97bfeceac556c2de80b9d&mpshare=1&scene=1&srcid=&key=ec8d854d0e9af0d397ccb887c71f1efadf5e4d907f184719e5cbbe406f8146bc20c440c2cef33ba70d970ada0161e91dd8aee50d6dc9890c70a5efe84d3438b8555f88017e2022ad11bbff05f9b165c2&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=mHfMVvUqptMOBWKr2X2IOhA1x3b9bJnemc9wAs7isNmTJn%2FWsZ4Ekw0KiEvZ5ohr)  
 
+[CVPR 2019：中国企业斩获无数冠军](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247496071&idx=1&sn=83bb709d072708a1d5a0ea24f71b7dd9&chksm=ec544600db23cf165d4c96f3afd591b7bc3d9f677b46d4e61313489ebdca54fad8461a9daf61&scene=0&xtrack=1&key=c1112c16dd79974909737f43c3556f7de6c56d43e6c65effff41ce5f8459a5e629e3a9db343c0c8f41a86c4a2509d0477774d5269ea42d5d8792d292fe2ba64c82325c29a25fc12813c44074b6d48f59&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=aytSRU4Ds%2BnbATQGvv5E4%2BuEoiP9RRKTFhTTkUT%2FfSVENn0CEPCvNulJ4ki3NP3t)
+
+[HCP Lab 12篇论文入选世界顶级计算机视觉会议CVPR 2019](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495997&idx=3&sn=bdb5272398a571770b5c48c9d0b8b36b&chksm=ec5446badb23cfac501c335ac4393e89365d98025f305328f03d68c50890308c4b09f30898bc&scene=0&xtrack=1&key=f15af84d64e2a59cc0e034433839bf7e4e10ba3f53ff30905aa13b33408d4a0ab277f1e2bb57fef9fdf177de835cf97e7b20b2b846ee5b8b57ce3bc0c543e1c2e1cd2a90b8e6681cf54cd478e07c3662&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=aytSRU4Ds%2BnbATQGvv5E4%2BuEoiP9RRKTFhTTkUT%2FfSVENn0CEPCvNulJ4ki3NP3t)
 
 ## 目标识别/检测（region level）
 
