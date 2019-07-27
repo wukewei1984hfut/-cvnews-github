@@ -1,6 +1,6 @@
 # cvnews
 ## 目录
-### 1、[机器学习-入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
+### 1、[机器学习/人工智能-入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
 ### 2、[机器学习/人工智能-前沿](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF)  
 ### 3、[深度学习-入门](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%85%A5%E9%97%A8)  
 ### 4、[深度学习-前沿](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%89%8D%E6%B2%BF)  
@@ -10,11 +10,13 @@
 ### 8、[图像分割（pixel level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2pixel-level)  
 ### 9、[视频/行为识别（sequence level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%ABsequence-level)
 ### 10、[图深度学习/因果推理](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9B%A0%E6%9E%9C%E6%8E%A8%E7%90%86)
-### 11、[强化学习](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)  
-### 12、[GitHub集合](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#github-%E9%9B%86%E5%90%88)  
-### 13、[学术论文写作](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C)
+### 11、[小样本/迁移学习/元学习]()
+### 12、[测度学习/异常]()
+### 13、[强化学习](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)  
+### 14、[GitHub集合](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#github-%E9%9B%86%E5%90%88)  
+### 15、[学术论文写作](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C)
 
-## 机器学习-入门
+## 机器学习/人工智能-入门
 [机器学习标准教科书PRML的Python实现：最佳读书伴侣](https://www.jiqizhixin.com/articles/2017-11-27-3)  
 
 [机器学习知识体系思维导图，一图让你理解所有概念](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA%3D%3D&idx=2&mid=2247485963&sn=ad99573922c7a27d34ed685c039af7f1)  
@@ -27,6 +29,12 @@
 
 [吴恩达机器学习- 网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1004570029#/learn/video?lessonId=1049052745&courseId=1004570029
 )  
+[【微软】AI-神经网络基本原理简明教程](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513399&idx=1&sn=9ae2dd115345e67c2c065ed294bcacc4&chksm=fc865424cbf1dd32eb938582b1d0367e5488866249eba3dd5d88d866cc80d314e536f8964dcb&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208937725&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd799749341629a78c077d39481cb920a4c36f488602ccb8e98e8b34c37a9d763e27b89d912753bff2326372a8d17de5e8fb977db7f409177d6453525042ef7b8ab73b30a24e536533c63baf&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[斯坦福大学2019夏季课程《人工智能:原则与技术》](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512801&idx=2&sn=59d79bf96e71dcf1223564fb089ac28a&chksm=fc8653f2cbf1dae4aeb2b25b5fdce85b6312f38a2f50f3fc46c4cee3c67fd03ffa5a61c20767&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209715399&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd79974919a19c2b38ee7b2bbea02cbbcdebd08a664fc4c1f64fea7d119e3511ff8468765364462a4853b1b7c2e5980ed14bde7049a0b2035e68a42d1eccf32575a268fb9f201c2ad3e08303&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[图论、图算法与图学习](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512599&idx=2&sn=fa900548cf8e2c2ed2472d9473fa6e49&chksm=fc865304cbf1da12a936c393f501552432fae5ce6fbfabce608914d14bcb7ac4155bd4a2c19f&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209905157&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21eab140a53629adbb73d8f2fa8c8a004303dbea0538fb5caea288d08f6c1b4bbc97fdd432e3cc48abbad0efe80f4972c3028a19f46c9714f9f4179d5a22e0e8e7d12c3d1d0ec01f1e46&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)
+
 
 ## 机器学习/人工智能-前沿
 
@@ -44,6 +52,8 @@
 [AI研究前沿 | 超强半监督学习 MixMatch](https://cloud.tencent.com/developer/article/1430302)  
 
 [Nature最新7月刊论文《无监督词嵌入发现隐藏文献知识》](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512947&idx=1&sn=f616202770cab1b9a1b9a8e1db53c13c&chksm=fc865260cbf1db76bf6a5f552e5801747af6ff0c255702e72f32d80153c90f59e5781bcf1848&mpshare=1&scene=1&srcid=&key=ec8d854d0e9af0d3540c01cb348e2c2116dab7dbc27906a0a7e6aa59b02b4fb5aff033c4b5f2d6d16d1bc992b7ae44f8e040f2b69baea96489e7718962fbf1ffe78146a193a0866122696a9082d0f601&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=mHfMVvUqptMOBWKr2X2IOhA1x3b9bJnemc9wAs7isNmTJn%2FWsZ4Ekw0KiEvZ5ohr)  
+
+[剑桥2019年度《AI全景报告》，附136页PPT](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512860&idx=2&sn=8558c615d664665b21de786799b47c90&chksm=fc86520fcbf1db19a467353c2a7006d0b2916246d1c8cc345bb4ecea1a96aaab5b8b5a142c04&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209645857&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21eaa149a17fd6630aeef47df9f479fcc47f925867e2ea7ad88b13cc20438ef5ce9d18ba8b969532794fa218ef79122834e22c92e9f31917f4413e88c96f77cd7f0f305df133da00c5c8&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
 
 ## 深度学习-入门
 
@@ -78,6 +88,12 @@
 
 [CNN 中的十种关键变革操作（从2012到2018）](https://zhuanlan.zhihu.com/p/28749411)  
 
+[手把手教你学习神经网络的数学原理（代码和教程）](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513270&idx=1&sn=5b34d4c6e09c2b3c98e6adcf31d73319&chksm=fc8655a5cbf1dcb37e6a5596e8b49f4270374a856e2b7b545993f98690eafb2c9acd16d3c619&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209065829&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=f15af84d64e2a59c70d3ff08a7d0990dd7a334b54068814fc6fcf40412879de4bbd6d437381e4f60421c1e7202396f774b13d641841bf55dcb458ed326a13b42d01a0f20214a250c8761e048c8feabb0&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[深度学习工程化神器Keras教程：《Keras深度学习进阶》随书代码](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513203&idx=1&sn=6fce57c560cf9c84935a6286e9b1bc18&chksm=fc865560cbf1dc76d01b9cb21d893d5a625fa78ffd824b131a344277d544d79d15dda6aafd99&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209210979&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=ec8d854d0e9af0d3912d07676ae1d5a0f77d96b0325f20081c186a48cce764f3d1554dd1b52669b0a79ba18438969755ae5c044acfd13d640ab12c1ec5870f82a7b568c6b8e9420b1d7f30eefee34854&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[CNN卷积神经网络使用技巧【附22页PPT下载】](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513025&idx=2&sn=ef050e8f63427c18587d0585291f1ee2&chksm=fc8652d2cbf1dbc4035582c47653239e765546d02447c39ca88c0a9961ab68ea7d3a83bbfd8a&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209373654&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=4d34922259ab8d292b41e335057de064ae2da99535335aac21fe507ea26382fab15edc8c133241ca451d036022b0128414e93fd0c0e3ecda22460179b644a1d5ac21fafd16a43616c4b0537baeacffb1&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)
+
 ## 深度学习-前沿
 
 [2017年深度学习优化算法研究亮点最新综述（附slide下载）](https://mp.weixin.qq.com/s/ABI1xtMTaFOqrDJ6MjlYzQ)  
@@ -102,7 +118,9 @@
 
 [伯克利 AI 研究院提出新的数据增强算法，比谷歌大脑的 AutoAugment 更强](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495969&idx=3&sn=1e5970ff6e04af6c4ae896763059b6c5&chksm=ec5446a6db23cfb07ee73a284bb66ac9f95364c745a2af118529aa8faac5152e71fbb0ab5404&scene=0&xtrack=1&key=f15af84d64e2a59cb4c4471c048579975600d0dad07433203c872c049af60795fde9a80384b9811955bd810378fd03472d5b57f7df88e3e7b0f564436ba4c2a48956fcb4cc9016b7a2e0096a2df717d7&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=aytSRU4Ds%2BnbATQGvv5E4%2BuEoiP9RRKTFhTTkUT%2FfSVENn0CEPCvNulJ4ki3NP3t)  
 
+[【综述】基于深度学习的图像数据增强方法最新进展](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513178&idx=2&sn=0b10b958bb4ded24f06908a17a3482e3&chksm=fc865549cbf1dc5fc6dabee4e61df9cd96707abd3cfdb0556ae9b4cb72317adf25f96d93d3c0&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209315082&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd799749cd51eb07cbcc818842b942864b2b6de02fe8d4306e15a1dbeed9a0908967580304c09aa0f43e6f664e83f35366264218e63e7bf0db412ef00af76fe9472c193b9156142872dc64bd&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
 
+[深度学习的未来——神经架构搜索](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512541&idx=1&sn=dfd39ff122b11418e1af07e1b297508c&chksm=fc8650cecbf1d9d8bbbcb85af5602e593a914bcf5f3111d83e746c87c7db4febf6fe8d0e04b6&mpshare=1&scene=1&srcid=&sharer_sharetime=1564210150947&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21eab0761ae69edcb99478214d07b1208771ddde4fe9cb2e505d7c2f9641556ad5f1313b5d131b24b7540290ddd398aa6148be4118f7a0e1f81d066f259d91484635e72281d7f6bca005&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
 
 ## 课程/教程
 
@@ -133,7 +151,9 @@
 
 [CVPR 2019：中国企业斩获无数冠军](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247496071&idx=1&sn=83bb709d072708a1d5a0ea24f71b7dd9&chksm=ec544600db23cf165d4c96f3afd591b7bc3d9f677b46d4e61313489ebdca54fad8461a9daf61&scene=0&xtrack=1&key=c1112c16dd79974909737f43c3556f7de6c56d43e6c65effff41ce5f8459a5e629e3a9db343c0c8f41a86c4a2509d0477774d5269ea42d5d8792d292fe2ba64c82325c29a25fc12813c44074b6d48f59&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=aytSRU4Ds%2BnbATQGvv5E4%2BuEoiP9RRKTFhTTkUT%2FfSVENn0CEPCvNulJ4ki3NP3t)
 
-[HCP Lab 12篇论文入选世界顶级计算机视觉会议CVPR 2019](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495997&idx=3&sn=bdb5272398a571770b5c48c9d0b8b36b&chksm=ec5446badb23cfac501c335ac4393e89365d98025f305328f03d68c50890308c4b09f30898bc&scene=0&xtrack=1&key=f15af84d64e2a59cc0e034433839bf7e4e10ba3f53ff30905aa13b33408d4a0ab277f1e2bb57fef9fdf177de835cf97e7b20b2b846ee5b8b57ce3bc0c543e1c2e1cd2a90b8e6681cf54cd478e07c3662&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=aytSRU4Ds%2BnbATQGvv5E4%2BuEoiP9RRKTFhTTkUT%2FfSVENn0CEPCvNulJ4ki3NP3t)
+[HCP Lab 12篇论文入选世界顶级计算机视觉会议CVPR 2019](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495997&idx=3&sn=bdb5272398a571770b5c48c9d0b8b36b&chksm=ec5446badb23cfac501c335ac4393e89365d98025f305328f03d68c50890308c4b09f30898bc&scene=0&xtrack=1&key=f15af84d64e2a59cc0e034433839bf7e4e10ba3f53ff30905aa13b33408d4a0ab277f1e2bb57fef9fdf177de835cf97e7b20b2b846ee5b8b57ce3bc0c543e1c2e1cd2a90b8e6681cf54cd478e07c3662&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=aytSRU4Ds%2BnbATQGvv5E4%2BuEoiP9RRKTFhTTkUT%2FfSVENn0CEPCvNulJ4ki3NP3t)  
+
+[谷歌2019 学术指标发榜：CVPR首次进入Top 10，何恺明论文引用最高](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652049686&idx=1&sn=c6cf0bcc131477b28c2d756c4836b3f0&chksm=f12065e7c657ecf1c6290088dd33620bc0048569f7fd3e9b3a778e4a09e81e79951d30b76267&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208732279&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd799749080e3e2e6e06987e91430d1ed5566b362b1ed733c70109e7a6b189d6eda24263ca45309d39483c9bb305a7e996d0de4ae4822b9b8a42f50b7d769e1dc83c6d7dd8d28eb96935b221&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)
 
 ## 目标识别/检测（region level）
 
@@ -170,6 +190,8 @@
 
 [【学界】滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式 - 专知](http://www.zhuanzhi.ai/document/d39d63579a8943c92a63aae4a1599f11)  
 
+[语义分割入门的一点总结](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247490539&idx=4&sn=2d489023503f89cf0cb32b9d8213b343&chksm=f9a26964ced5e0724cc9f8e24828571755898d981b5bbdc3ffcd76c4b18a1e2c331ebeb29e14&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208575341&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=35c237a6d6fb89f479cc0ffaef441d39d39e897d9291bf283abb1c9d7eb5b817c47ff065ba76611d1f473cf285bbe5467e0157fb4bdeaaed77c6ff2180481120ffc12cebafd8a06cff127c365ab36204&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
 
 ## 视频/行为识别（sequence level）
 
@@ -179,6 +201,10 @@
 [学界  ICLR2019 最佳论文公布 有序神经元 彩票假设](http://www.sohu.com/a/313480498_717210?sec=wd)  
 
 [斯坦福&Adobe CVPR 19 Oral：全新通用深度网络架构CPNet](https://cloud.tencent.com/developer/article/1430545)  
+
+[视频分析/多模态学习论文、代码、数据集大列表](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513218&idx=1&sn=3fddc33307238440467308fe77db9f0f&chksm=fc865591cbf1dc87d440c1da13ebd925222b3f27c122d44e9d12295e42e61119abdb6b830837&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209157403&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21ea740435fec73ae5775f22b974ae1cc96ee7f29a297ebabce57e88089af44a0a6cefdba5a922df3746d3a7db89ebc243f318c412aa9946a8242684a794b9f44927cd8e1b2ad35bbe21&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[【ACL2019】seq2seq最新变体，稀疏序列模型（附论文全文及slides下载）](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512676&idx=1&sn=b35796a87323c9e0ad0660d77ce4117a&chksm=fc865377cbf1da61fdc864f6e608bbceed49cf54bbd159b24261e6ff93de02c8169f2ae42c76&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209788837&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21eac7dbe66de61f24d2ea0fd2e92f9975f46ca5c2bf8379c3554e5cec3acafd9daa795c6791cd706bbc9b3d158c88f2951e7f8e5c7a4e95a572a9ac52bc168af43f9a8a918f55326a3a&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
 
 
 ## 图深度学习/因果推理
@@ -201,6 +227,18 @@
 [GCN作者Thomas Kipf 最新Talk：利用图神经网络进行无监督学习](https://cloud.tencent.com/developer/article/1431048)  
 
 [Github上的图神经网络必读论文和最新进展列表](https://chuansongme.com/n/2976757147029)  
+
+[事理图谱：事件演化的规律和模式](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247496312&idx=3&sn=9c8f577fd6ea70bac85c879afb1263ca&chksm=ec5445ffdb23cce9eb47eaea3d78f196e9779beeaab325c3e451970f5ca56f8fe6dd4adc04fc&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208214015&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21eaee3701a93e20fde7c7fd39909a88bd8d103f79fd5ceb6870b657860ca3779be228b83a80698cb5d372fa6ffbbba404f7a87a7c4b5fdd51e0a4a33c9c2625ec843dc0162e55df0da9&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[图深度学习资源汇总](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513025&idx=1&sn=a8e7efd63e35dd5a2cfc4f11b0508410&chksm=fc8652d2cbf1dbc4ea4782271e2fb37a636a3ff4a77e2182a7a3603d44c92e018c04b5d216d7&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209380875&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd799749d1dd96ec28db789bb368b986a8b9e263c9acdfb8f23fcad2300c8234d350ceaacdea664ed23299b22d1002a4ef7a2f03e22c48e2860074add941671ed27694b9b059d9de6c3e6830&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[Google图挖掘团队最新博客《图表示学习中的创新》，附PDF下载](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512684&idx=1&sn=016a87e52c98421a5de533b461144173&chksm=fc86537fcbf1da697f7bfd61151c904eb87103802020af2bcb22e4f7cce3d0b086119c25e203&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209750611&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=4d34922259ab8d294f5bfd9ea8fc14b65355d5c6ec39276f6c05a9d69a0bbbb47dd58e62a3a6d5a7addbf8ea251c6cceea5caaa47b615da34f389f76ce6355855b6d4046a42e5674b7d84cbff8d7be2d&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[近期必读的10篇ACL 2019【图神经网络（GNN）+NLP】相关论文和代码](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512446&idx=1&sn=9823c89536bd558850a304c76031e69b&chksm=fc86506dcbf1d97be3552f7a1111d52f2799a046f5f89940c18e5de4b5d156e8a1ca85350872&mpshare=1&scene=1&srcid=&sharer_sharetime=1564210253205&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=ec8d854d0e9af0d3f2a97de2f89e84e02ef651fddf8d9dba3679d3432107b5281a9242a31e241cdd9d7e386e33b302fd8fd83e4688f4dd6f353eddcbc9cba5c134c104e46fa83b1fe2e6413edb99d12a&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[图数据表示学习综述论文](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512105&idx=2&sn=35c445b5bb63cac7bf5a178c3cf5b6a1&chksm=fc86513acbf1d82c1098d2ff82f344629d6946b27cf184e465a34ee9515f0705b19fe103514f&mpshare=1&scene=1&srcid=&sharer_sharetime=1564210335117&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=35c237a6d6fb89f4673b26d168ec2df96aa67624f777d5f67635dde203cb61faff0553380d384e20720167e12771329349882d34a45e3f3df964eaac4e9be6107830c9d83af01621f6b29ac12c8606c0&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
+
+[图神经网络最近十篇论文，来自KDD、IJCAI、ICML等，附PDF下载](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512053&idx=1&sn=e7eb25dec5eb93da42c4b2deb5d97c00&chksm=fc864ee6cbf1c7f04e95f0f9b4249ded77b780ee6e165342506e481bbcfb6db2114d72e38ae0&mpshare=1&scene=1&srcid=&sharer_sharetime=1564210363760&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=ec8d854d0e9af0d33daf567f5954790065f095eeb7a7268817f33d1ca5651a8e3a6b3aab533263481f49ab5cdf915bfe98083cf75b81d6eeccf7b2fbb1f35bc3359559fdca6a54e556a98f738d0929a1&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)
 
 
 ## 强化学习
@@ -238,3 +276,9 @@
 [【杂谈】如何学会看arxiv.org才能不错过自己研究领域的最新论文？ - 知乎](https://mp.weixin.qq.com/s?__biz=MzA3NDIyMjM1NA%3D%3D&idx=1&mid=2649031901&sn=2a07245e287372b3d780a9f72273229f)  
 
 [281个计算机视觉数据集任你选](https://www.jiqizhixin.com/articles/2019-06-03-4)  
+
+[数据科学家最容易犯的十个错误](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512541&idx=2&sn=7af31e644eaa6bc1ae0bd12cc3d579ab&chksm=fc8650cecbf1d9d8a8b4135d443e22fedf854e18b98b9d0d84bae52d0f911069a8bd1775661e&mpshare=1&scene=1&srcid=&sharer_sharetime=1564210144503&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21ea09d7ea55629ee884f9c2e5263a4af7b1b750496141708c9f74a6b2e608f1b024ca76d9ce3b70cc9bb02d13b31c060dfd4802f6360a33ce4dbc528d716dd8df62968b342c2e55a890&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)
+
+[期刊审稿人手把手教你写一篇SCI论文 (1 - 7)事实汇总【论文写作】](https://www.bilibili.com/video/av24441450/?spm_id_from=333.788.videocard.1)  
+
+[如何SCI论文写作](https://www.bilibili.com/video/av15937259?from=search&seid=16708301969162330412)
