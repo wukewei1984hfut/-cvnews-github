@@ -27,8 +27,8 @@
 
 [十四年的NYU教学精华，开放书《机器学习基础》第二版](http://www.sohu.com/a/314614024_129720)  
 
-[吴恩达机器学习- 网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1004570029#/learn/video?lessonId=1049052745&courseId=1004570029
-)  
+[吴恩达机器学习- 网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1004570029#/learn/video?lessonId=1049052745&courseId=1004570029)   
+
 [【微软】AI-神经网络基本原理简明教程](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513399&idx=1&sn=9ae2dd115345e67c2c065ed294bcacc4&chksm=fc865424cbf1dd32eb938582b1d0367e5488866249eba3dd5d88d866cc80d314e536f8964dcb&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208937725&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd799749341629a78c077d39481cb920a4c36f488602ccb8e98e8b34c37a9d763e27b89d912753bff2326372a8d17de5e8fb977db7f409177d6453525042ef7b8ab73b30a24e536533c63baf&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
 
 [斯坦福大学2019夏季课程《人工智能:原则与技术》](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247512801&idx=2&sn=59d79bf96e71dcf1223564fb089ac28a&chksm=fc8653f2cbf1dae4aeb2b25b5fdce85b6312f38a2f50f3fc46c4cee3c67fd03ffa5a61c20767&mpshare=1&scene=1&srcid=&sharer_sharetime=1564209715399&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd79974919a19c2b38ee7b2bbea02cbbcdebd08a664fc4c1f64fea7d119e3511ff8468765364462a4853b1b7c2e5980ed14bde7049a0b2035e68a42d1eccf32575a268fb9f201c2ad3e08303&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
@@ -84,6 +84,7 @@
 [李飞飞高徒、AI“网红”Karpathy：训练神经网络不得不看的33个技巧 - 科技 - 真头条 - 真主角](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&idx=2&mid=2652043772&sn=3e87e5231bfd714b9c2a22216d237630)   
 
 [斯坦福2017季CS231n深度视觉识别课程视频（by Fei-Fei Li）](https://www.bilibili.com/video/av13260183?from=search&seid=12271009111252913898)  
+
 [吴恩达授课，斯坦福CS230深度学习课程资源开放](https://www.jiqizhixin.com/articles/2018-06-21-6)  
 
 [CNN 中的十种关键变革操作（从2012到2018）](https://zhuanlan.zhihu.com/p/28749411)  
