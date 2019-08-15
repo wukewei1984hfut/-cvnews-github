@@ -8,7 +8,7 @@
 ### 6、[国际顶刊/顶会](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B)
 ### 7、[目标识别/检测（region level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E7%9B%AE%E6%A0%87%E8%AF%86%E5%88%AB%E6%A3%80%E6%B5%8Bregion-level)  
 ### 8、[图像分割（pixel level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2pixel-level)  
-### 9、[视频/行为识别（sequence level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%ABsequence-level)
+### 9、[行为识别/自然语言处理（sequence level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%ABsequence-level)
 ### 10、[图深度学习/因果推理](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9B%A0%E6%9E%9C%E6%8E%A8%E7%90%86)
 ### 11、[小样本/迁移学习/元学习](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%B0%8F%E6%A0%B7%E6%9C%AC%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E5%85%83%E5%AD%A6%E4%B9%A0)  
 ### 12、[测度学习/异常](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B5%8B%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%82%E5%B8%B8)  
@@ -206,7 +206,7 @@
 
 [视频物体分割算法的三个方向与最新应用](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247490733&idx=4&sn=96a7fec5b0fd162d0f45f821d6b31498&chksm=f9a26e22ced5e734a094cade6b70cc1005e6a82146a462a9c90fb35e45e416678ea323a860da&mpshare=1&scene=1&srcid=&sharer_sharetime=1565101419927&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=28c5176cf51d21ea801a5878efa1302804a53721f295f6abe8e11dc9bd98a1f7ee7601db3279a73c6be25e25bcde4076b9b36e31d62be9a3ea654e1979a30b0781d64cea0f732fdd1be54e9d9e3b292d&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=D3CDPJHopTjDB8CN3CnWhllfRIY1bS6k6fVEwdqVPvZFJQ8sf2YQdfkz7D4CrZ3h)  
 
-[纵览图像语义分割发展史，11篇关键文章简介](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513860&idx=1&sn=d40667f935991579bfea63ff43e07832&chksm=fc865617cbf1df01706a56732c3333ff1c58c2a828894aa392f1c2ecbcba6ca826973ad47076&mpshare=1&scene=1&srcid=&sharer_sharetime=1565102334003&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=f15af84d64e2a59c3e115138a851546b85de2f352b49e4dc4a2a340434409a7ff1895286ef6fbb1192091c8b264c8f22b2a67e461044b78052a4ce97e6550dd334bb5e79af9777ac40b2fa90b0a743ac&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=D3CDPJHopTjDB8CN3CnWhllfRIY1bS6k6fVEwdqVPvZFJQ8sf2YQdfkz7D4CrZ3h）  
+[纵览图像语义分割发展史，11篇关键文章简介](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513860&idx=1&sn=d40667f935991579bfea63ff43e07832&chksm=fc865617cbf1df01706a56732c3333ff1c58c2a828894aa392f1c2ecbcba6ca826973ad47076&mpshare=1&scene=1&srcid=&sharer_sharetime=1565102334003&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=f15af84d64e2a59c3e115138a851546b85de2f352b49e4dc4a2a340434409a7ff1895286ef6fbb1192091c8b264c8f22b2a67e461044b78052a4ce97e6550dd334bb5e79af9777ac40b2fa90b0a743ac&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=D3CDPJHopTjDB8CN3CnWhllfRIY1bS6k6fVEwdqVPvZFJQ8sf2YQdfkz7D4CrZ3h)  
 
 
 ## 行为识别/自然语言处理（sequence level）
