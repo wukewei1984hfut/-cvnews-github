@@ -8,7 +8,7 @@
 ### 6、[国际顶刊/顶会](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B)
 ### 7、[目标识别/检测（region level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E7%9B%AE%E6%A0%87%E8%AF%86%E5%88%AB%E6%A3%80%E6%B5%8Bregion-level)  
 ### 8、[图像分割（pixel level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2pixel-level)  
-### 9、[行为识别/自然语言处理（sequence level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%ABsequence-level)
+### 9、[行为识别/自然语言处理（sequence level）](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86sequence-level)
 ### 10、[图深度学习/因果推理](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%9B%BE%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9B%A0%E6%9E%9C%E6%8E%A8%E7%90%86)
 ### 11、[小样本/迁移学习/元学习](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%B0%8F%E6%A0%B7%E6%9C%AC%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E5%85%83%E5%AD%A6%E4%B9%A0)  
 ### 12、[测度学习/异常](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E6%B5%8B%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%82%E5%B8%B8)  
