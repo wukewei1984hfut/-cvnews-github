@@ -64,6 +64,8 @@
 
 [机器学习算法中分类知识总结](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247538797&idx=6&sn=52ceb99f47ca2802d8421ae7d14537ec&chksm=fc86b97ecbf13068191ef9c2dc2bac70ef1a48f4d6200b9f841ddb88fefe3e9c5e7c6f6e9f2f&mpshare=1&scene=1&srcid=1101LPBc2JEpFRtC3aexNFEv&sharer_sharetime=1604221365635&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=8bc8ac599537b08553b6d4eb67608405585e52f034aa35b77fb0d910568290c433b6fb29839e9635f99c48f9fbb47b984cf2262fcba3d63e57d6aafaa33bb79039198ec29a150dae65140660f98c1b9ed716a5871de076822f5f3414996afae7b755c1bf392565c26517b4de934104d4f0da22f13658aa1214f3056c373927eb&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=ATxvXR7JDHnqP%2B5SF%2Bx009c%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
+[从决策、监督、泛化到因果性，这本《机器学习的故事》2021新书讲解数据模式预测行动，296页pdf](https://mp.weixin.qq.com/s/mMZ810V1gOVVaBqq1snUQA)
+
 ## 机器学习/人工智能-前沿
 
 [大数据时代小样本如何学习？看这篇最新《小样本学习方法综述》论文 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1421759)  
@@ -271,6 +273,8 @@
 
 [ICLR 2021的48篇投稿看模型搜索(NAS)最新进展](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247509213&idx=2&sn=0cf4cadae41b8658bfa0020ec940aa74&chksm=f9a1d652ced65f44e924ec8f57b6960b7e8917c3abcf240b530caaec8583842bf1507fead603&mpshare=1&scene=1&srcid=1101nx2WvDie1tsgrFB1wJu8&sharer_sharetime=1604203601659&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=81fa55bc47845c05f6eee8df2be022b7d64c1a47f5fa5ab3bba3cfcb741722edbc12adff453c0c972b53ae9a1a2581cfa2468e49fb6c04fe7a328eaac1acaf3d7c0d347bf4d8296ac521f851e90a6c58b32c4772560afcf69276c45a54376f19368487c7018f34df0941af0b2f6b7ded8402b524afb250fe06b8be3407389f3e&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=Aedrk38d6yh7FAfDY1BvGiU%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
+[Transformer杀疯了！竟在图神经网络的ImageNet大赛中夺冠](https://mp.weixin.qq.com/s/3EYhJ2ZTrZLF9yVEecF5WA)
+[复旦大学邱锡鹏教授等「Transformers全面综述」论文](https://mp.weixin.qq.com/s/XRpyha3yAibF4UoEvQkRhg)
 
 
 ## 课程/教程
@@ -645,6 +649,20 @@
 [【NeurIPS2020-MIT】子图神经网络，Subgraph Neural Networks](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247538088&idx=3&sn=e47272255df6842796ac6d750b3e6047&chksm=fc86b4bbcbf13dadabef8562058c91b1fc1333af3102a7a7ffba8fdedcfbc7aef6529dfc5235&mpshare=1&scene=1&srcid=1101IFpPbYU6TuFbHDNi4B4F&sharer_sharetime=1604221621546&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=8bc8ac599537b085ec256963985d4ab94d49d521c91e750b73003e308ad9a3e08a4cc289a8976501b126f9a17505b58ed6ac33ba6d36fae962f075b318187a4844ad1da3dd7f51ea6d66a0ddbc5de54ba98e3a901de32abf59516e18af3f8d2f0241308285a33acca2d22f89dc8ed806ff15abc8fd9e7f9e33be22a5c1b7778b&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=ATCqAmINMpxQiKg2oTT%2Bz6w%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
 
+[【图与几何深度学习，53页ppt】Graph and geometric deep learning](https://mp.weixin.qq.com/s/3EYhJ2ZTrZLF9yVEecF5WA)
+[ICML2021图神经网络5篇论文的最新研究热点](https://mp.weixin.qq.com/s/aV35ZHk6Neoeo4yCBV7ThA)
+[近期必读的5篇顶会WWW 2021【图神经网络+推荐】相关论文和代码](https://mp.weixin.qq.com/s/bqftA96bDFnyVRaXGDi3rQ)
+
+[近期必读的5篇顶会ICML 2021【图神经网络（GNN）】相关论文和代码](https://mp.weixin.qq.com/s/W-K3Od6Ww9JgUfZmdBAjGA)
+[《图机器学习》综述论文，19页pdf概述图信号处理、矩阵分解、随机游走和深度学习算法](https://mp.weixin.qq.com/s/SFUA2TV6PtsWTdjLLnVW0Q)
+[【斯坦福CS224W】图神经网络GNN高级主题，60页ppt](https://mp.weixin.qq.com/s/lfqq0XZwt6zSxgDh6VFvgA)
+[Twitter最新《动态图深度学习:时序图网络TGN》研究，附论文与PPT下载](https://mp.weixin.qq.com/s/O7oybCzWKvlNhsCB2k6KBA)
+
+[「因果发现和因果推理」简明介绍，37页ppt](https://mp.weixin.qq.com/s/H-MWi9CN8mmzOz0ViUWNRg)
+
+[「因果性机器学习」书册，88页pdf概述机器学习中的因果推理](https://mp.weixin.qq.com/s/5cbV5he0hY0Q14NDU1yK9g)
+
+
 ## 小样本/迁移学习/元学习
 
 [从 CVPR 2019 一览小样本学习研究进展](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247496403&idx=1&sn=85012ecc63cd72506156cdb5fe46323d&chksm=ec544554db23cc427a38c9e2b0f13037ea3ee8e0e7e97315ce97b96ac3e3af11dcbff278d768&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208023795&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=c1112c16dd799749c925a9cf9516fbdad45317de5b09a8b2474f2f8ecc967caf7c92abc6066421f121cd37eec62c681cdd31b434f93b73a6fc2130d6f2e5290261dcf18d25580ba8fe6fddb597607d0f&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)  
@@ -688,6 +706,12 @@
 
 [【NeurIPS 2020】基于因果干预的小样本学习](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247538409&idx=3&sn=b3bd8ecc76a510bab0babd26a6f713e3&chksm=fc86b7facbf13eec0892e3d92cc618fc942bcd41ee25288ce7d62cf09894cecbbf092f235a54&mpshare=1&scene=1&srcid=1101xrQItnUePTvQK1r9WN1F&sharer_sharetime=1604221524842&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=3802bbcd5b9ad3c88cd0bac8f4c1d034ab42e460e38c91a82e3f2556d8320e0da2a201f85443e8eb8919d0d10903d9ee3fb8eeaf02d551b6b23de3cdb867c0f7408d692176a34165812771adb3bc093747d5db29bd72c72e42c78f5335a23c4562bb6f9182bfa7da001ddcb15c280005a5452c915c8f1e949b0b2abbc77d15c1&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AR0nTiUnuhT7WPy4snY10pg%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
+[零样本图像分类综述](https://mp.weixin.qq.com/s/SfRGWmGj_ws39IMgb0s98Q)
+[「课程学习（Curriculum Learning)」2021综述论文](https://mp.weixin.qq.com/s/sG9qvElHchydNs1Wt6FJwg)
+[5篇顶会CVPR 2021【对比学习（CL）】相关论文和代码](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247556814&idx=1&sn=4ba631bfb9280ef593ef58baa05d5dc1&chksm=fc86ffddcbf176cbbc34336d0b052e4ebb30c902fb0fbbe5a7076bdb225ffbf22547511cb099&scene=21#wechat_redirect)
+
+[对比学习和项目实践【判决式 无监督学习】](https://zhuanlan.zhihu.com/p/374746454)
+
 ## 测度学习/异常
 
 [CVPR2019 | 物体为中心的自编码器与伪异常的视频异常检测](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247490560&idx=4&sn=c20326f9c1377b2015063bb22413f34e&chksm=f9a26e8fced5e79906c20a3b2ea2fe9132b2bc8b3bc0f549979dd309f94fd390906418f30d77&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208404201&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=4d34922259ab8d295446f4b94ec40d5efb5c4159498dfddbc133a1a46dd6ac511622856c9a1851568698fb0c6c90593d6e5ffcfe00c7f7be89f7d6105b32af8b7b4170c6459910757567c38207a5c2d3&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)
@@ -710,6 +734,9 @@
 [面向图的异常检测研究综述](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247539922&idx=5&sn=03391c45c8d7b383ae28c50b20d1a64e&chksm=fc86bdc1cbf134d7e6274385553f163760ea0748bc5c6d85885b55e5d332fa88940d5d1fbff1&mpshare=1&scene=1&srcid=1101A21Nu7GRSkPogzkRZRJE&sharer_sharetime=1604220227235&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=3802bbcd5b9ad3c85701f7e75a3c4e133122ebb7b7428b63c1b8fc1c4de1f57ed7b761dc8aa2863b03ea9fbeb5cdd4ecc3b86db262ec033d023cdeb6de016ddfb881ef2119095557b1c3e7ac9ce4170ede8af6862b8a42aa6d7ece73813e83357316c0dfeeb30cea420cc7bebb3962dbcacaa22fa25bde96cdb4c334a5d4c256&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AZMjOwQHp7ut0ipZSZuOQG4%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
 [附特征工程电子书178页pdf下载](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247539096&idx=4&sn=643e92f2cf596420d197387daac00514&chksm=fc86b88bcbf1319d3696e82989e3002f7d281d01124caed969a442ac8e01b69992bf9e9b6fbc&mpshare=1&scene=1&srcid=11014qx9myAu0H7AxUyQ1G4f&sharer_sharetime=1604221207296&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=f8fcfe1a6c069eefdd1daca2bd5c669b6333976cf307ca5aed45af363e64233c44677ffcea9ff908070f040b2ce4765914aef04a4fcfec76aee84dc9d7bea51fd309c1a1349264731ca7e0f3c4c8ffe0305fb0541237ab670af2dda0e9ca0ab10be35df076348eb7b9433d29aff38b6dff7e9e5162ddbdfa0e6c252c71e35f6d&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=Ad%2BWdW6d7zER7VgSr35Rhf4%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
+
+[「图像视频深度异常检测」简明综述论文](https://mp.weixin.qq.com/s/ZVWxpZPCoUvzZH6F0YkjNg)
+
 
 ## 强化学习
 
@@ -816,3 +843,7 @@
 
 
 [如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247540099&idx=5&sn=dfbc6634135b716b2acfb5c563309ac5&chksm=fc86bc90cbf13586302fbea68ca2666aab46790e405fb092e002451529c787e70a3d3759afa0&mpshare=1&scene=1&srcid=11014YQo4bcuLQbgh0befxHs&sharer_sharetime=1604220132516&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=81fa55bc47845c0564d4442aa846348e4a41e6eca7b40f5b07b724c0c1eda6a4a5f1d987ec8abe5bd1da6f54ba845e650ebc372d0c4f5c9088f00cb5eb97badd9a757bb690634e68ce52ccbb15f9ae87887d525bf3b612976f5204954fc53a310d1aa11008c478776a64623911328d34edf93cff0466c0e072d1f34e8d2c07c2&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AWqYiJlEXLoW%2BlABoGsAymQ%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
+
+
+[周志华教授：如何做研究与写论文](https://mp.weixin.qq.com/s/P2Vlf-KU5WC6ak3xHy12dQ)
+[ICCV 2021审稿结果出炉，有人已总结出了一份Rebuttal写作指南](https://mp.weixin.qq.com/s/Qtc4ALp-Db5KXo4spjgljw)
