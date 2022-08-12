@@ -105,6 +105,14 @@
 
 [《高级算法》Advanced Algorithms，176页pdf](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247539425&idx=2&sn=0cef6a271a74adfbdbbdccba4f1e0c81&chksm=fc86bbf2cbf132e4468f24179b4144153b4436c25cdfe9fac1fbe1bb12d69799657dc11d29d1&mpshare=1&scene=1&srcid=1101wtfEP7UGYG10eKwRtDRy&sharer_sharetime=1604220382165&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=909afa0d496e3a5d535810d539c463fde3cc2a8775ccdcb0ace0d72e7fb1715777dcbe63b97e6946171bf3d2f925058d1940509314c94b9bd53bc2a1aa68b99b003d56adcada79827db4b08882d85808e35b5d14d7e21ef4ab8c74e1cfec40f5cea55b8cca7e3fda0b0650ad6dd9ebf2722691ca8a9d4dffbfb7dd8595389971&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AQk9Yjl4J00n%2F8k%2Fp6Ueyf4%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
+
+[CVPR 2021最佳学生论文提名：Less is More 稀疏采样](https://mp.weixin.qq.com/s/MkFuItYXVj1L1ktBH3K1Vw)
+
+[2022最新综述《贝叶斯视角下深度学习分类系统中的不确定性估计综述》巴塞罗那大学](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603186&idx=7&sn=1037f41b7ec26fd52f845a89f34494cd&chksm=fc87b2e1cbf03bf7986fa17bfe9cfef1c589eac1db2e5ea6a5c7d7f86f569763bd1da76f9e99&scene=126&&sessionid=1660293860#rd)
+
+[浙江大学等最新《深度聚类》综述，35页pdf涵盖246篇文献概述深度聚类体系挑战与未来方向](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247598620&idx=1&sn=9e04ebb53cdd1f0fcaac9dcb24d652ff&chksm=fc87a30fcbf02a19a6211720f9b4f99ff282ee507ea92c583a0db2d4fac08879d6f3f9d761e0&scene=126&&sessionid=1660297027#rd)
+
+
 ## 深度学习-入门
 
 [资源 _ CNN入门材料：《解析卷积神经网络——深度学习实践手册》](https://baijiahao.baidu.com/s?id=1587192557413466659)   
@@ -152,6 +160,8 @@
 [【牛津大学|DeepMind】论深度学习中的统计思维，附49页ppt](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247517281&idx=2&sn=48e188d86af8d823e4bb038417e2763a&chksm=fc866572cbf1ec64a0ac90a9f4291b01650d4bebeeec755db0d38b8cfbbc55f30cb8746bfd55&mpshare=1&scene=1&srcid=&sharer_sharetime=1577545493260&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=4bdc70ea667128952247e2565622628e4663871ddd96491c5e0dc473db0647435b750dc0c7dab465fa9f3d30e0cb7584559d3f9e3fe50a7a8a4744c0b106170fe458f99431d20a4f046f220a19a008f1&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62070158&lang=zh_CN&exportkey=ARNtDskVWZyS0PTpShowfYY%3D&pass_ticket=2beY6NgDrNN7ZYyF%2FbYtMa%2BEok4Bm%2FVzQgJ8jeNp9Cifz%2BWGEBXsxXG4Wa4AblOw)
 
 [从2019 AI顶会最佳论文，看深度学习的理论基础](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650779288&idx=1&sn=567101f96b9711cb4d23e9cdaffe0276&chksm=871a6ae6b06de3f0c49cdc673bac49e055bd5d93b08330bc7bebe4f90538b1d346767ff6902e&mpshare=1&scene=1&srcid=&sharer_sharetime=1580995801036&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=f130d4381d738667a9e1e70d3d2baa0e21ef522f26ba5509886977051d4f436230b0f81f8d5068b5047e1a80b53eb8236113f3894a37b26d1988451984a424e5e560cf94b0489070280583e46adb44f9&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=6208006f&lang=zh_CN&exportkey=ASZeSZcnXBd%2BKlXclY16TVk%3D&pass_ticket=%2BniC16tGQKNY5R%2FuX%2B84i%2B%2B7WJSn7nxxCP4oiZ7y6%2FWGGYbMAQrUK3uBIrfAQMWP)
+
+[一文看尽深度学习中的20种卷积](https://mp.weixin.qq.com/s/wsZn3m8RVyLH5ef5hhZI3A)
 
 ## 深度学习-前沿
 
@@ -277,6 +287,46 @@
 [复旦大学邱锡鹏教授等「Transformers全面综述」论文](https://mp.weixin.qq.com/s/XRpyha3yAibF4UoEvQkRhg)
 
 
+[NUS和依图开源T2T-ViT：Transformer又一力作](https://mp.weixin.qq.com/s/IemBXxsPcoGgEYmRF3GMLw)
+
+[浙大和腾讯开源CrossFormer：基于跨尺度注意力的视觉Transformer](https://mp.weixin.qq.com/s/-4u5A7z7mh_QlG0VB39YkQ)
+
+[大连理工和MSRA提出STARK：基于Transformer的目标跟踪器](https://mp.weixin.qq.com/s/Tlrhoj2jnexu9mjRky0yww)
+
+
+[一文看尽深度学习中的各种注意力机制（1998-2020年）](https://mp.weixin.qq.com/s/7E2O5Qoyd_GBcZfUCO_CxA)
+
+
+[《注意力机制》综述论文！21页pdf全面阐述51个代表性神经注意力模型](https://mp.weixin.qq.com/s/Qh1IT6e5esWt0YTTJ3jrwQ)
+
+[清华&南开最新「视觉注意力机制Attention」综述论文，带你全面了解六大类注意力机制方法](https://mp.weixin.qq.com/s/bMOLo9FXpPsOrD9j4CNHYg)
+
+[「深度学习注意力机制 」最新TKDE2022研究综述](https://mp.weixin.qq.com/s/p8s01OmckrzLdhbdXZ2tpw)
+
+[阿里达摩院最新《时间序列Transformer建模》综述论文](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247587573&idx=4&sn=c19b3f3457f21fbb7f849b8054ed5423&chksm=fc8777e6cbf0fef01983e4fcf6a1967e45c022223616f1f6e3173f90d9e81c7058e38093e126&scene=21#wechat_redirect)
+
+
+[Google最新《高效Transformers》2022综述大全，39页pdf阐述九大类提升Transformers效率方式](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247589859&idx=1&sn=c1f5858e5b6d2a52656c9233d73a3dc5&chksm=fc877ef0cbf0f7e6045cfeccf328fd1aa953d52e32dfa94a164e6e9bc114f83f6d68507e33a6&scene=21#wechat_redirect)
+
+[中科院计算所最新「视觉Transformer」综述论文，带你全面了解最新CV分类、检测/分割方法](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247574411&idx=1&sn=cc93a1ce4c5e0f55c1d76eb97f10ef17&chksm=fc874298cbf0cb8ee88a3efdc079e273e40046b65b7070f31515af7e1235033dc0c9bb56a6bd&scene=21#wechat_redirect)
+
+[Transformer如何用于视频？最新「视频Transformer」2022综述](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247579105&idx=1&sn=b6519367c7397cbf8dbecb814ca52319&chksm=fc8754f2cbf0dde45ef1035155967f07de3ec64d6d835ad0f95f7e8446891cd31a9ac4c826f4&scene=21#wechat_redirect)
+
+[TPAMI 2022｜华为诺亚最新《视觉Transformer》综述论文，涵盖200 多篇前沿论文调研ViT进展](https://mp.weixin.qq.com/s/f4CXA_sc2u4uMefsCfu0KA)
+
+[几何深度学习有何进展？252页ppt《几何深度学习》2022夏令营报告，牛津大学Twiter大牛Bronstein主讲](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603933&idx=3&sn=85f6b6a15483661df8a5fddaf6082815&chksm=fc87b7cecbf03ed81781f51f2294a2d37ce36a890e91daf6b204fd8055e9790130c25d52b6cb&scene=126&&sessionid=1660287325#rd)
+
+[低资源如何用深度模型？【2022新书】高效深度学习: 更快更小更好的模型，Efficient Deep Learning全面解答](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603933&idx=5&sn=a7f81394096c58b7b80e1bd02b5952d5&chksm=fc87b7cecbf03ed86847206f8a47564c023eab4f15ca3fd3cbaf7c1f310dbde234401b3b7ed1&scene=126&&sessionid=1660287325#rd)
+
+[【TPAMI2022】TransCL：基于Transformer的压缩学习，更灵活更强大](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603794&idx=7&sn=bea61793e115dd8032ae532c63b0be4f&chksm=fc87b741cbf03e5746ab051595c4799dca5cdf2b552ca5feb82976abb44c6da5eaae547e57c2&scene=126&&sessionid=1660287325#rd)
+
+[《视觉Transformer》最新简明综述，概述视觉Transformers 的不同架构设计和训练技巧](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247600825&idx=1&sn=c75d95c8e715fe18902b31f87b8dc172&chksm=fc87abaacbf022bc82a1eedd704176571617f51a819193ab2a61c58b1b5cc4e13296b0ed06a3&scene=126&&sessionid=1660296138#rd)
+
+[【ICML2022】结构感知Transformer的图表示学习](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247598313&idx=4&sn=ead2e7e56495380d0402864be20a672f&chksm=fc87a1facbf028ec9e0b3aedbd742ddf38b221d7601b494014adb465efd092b1efa14026797b&scene=126&&sessionid=1660297027#rd)
+
+[【何恺明组新论文】MAE视频表示：掩码自编码器作为时空学习器](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247595645&idx=5&sn=633846d5b4ce64bcea053a3a455bfa5c&chksm=fc87976ecbf01e781c73be4d320b60414970fd8901fbee75c85444f36b50514a47cb832a8715&scene=126&&sessionid=1660298763#rd)
+
+
 ## 课程/教程
 
 [斯坦福课程:深度学习理论(附视频+讲义+阅读材料) (Theories of Deep Learning) STATS385](https://stats385.github.io/) 
@@ -303,7 +353,7 @@
 
 [贝叶斯和深度学习如何结合？看这份CIKM2020《神经贝叶斯信息处理》教程，220页ppt，国立交通大学](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247539706&idx=1&sn=d1a5f25e8754068fc15d5f05b79ddbe0&chksm=fc86bae9cbf133ffa2a4423824a145126ac59a7b747b676eca4eefbade5a9796c25c3db799c2&mpshare=1&scene=1&srcid=1101Qr7q1VGLuNm4cZRO0oos&sharer_sharetime=1604220273774&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=3802bbcd5b9ad3c89901796176fbbeaf9d7eeeb8ec62a298a7abd32e1bb240d433eb64eced95f319cd9ea400c8f7794c698d547cc33f18949a4bb7300148214a777840cfa7ad380bf1bb16526a478d990fb034ce807e0fec8fd87d49569ccb550bb0ce07469eda0c4fb8869bfe7db9b002d154b5d09ee77993bc780805276523&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AaGIdupSg5yYRO4iCB%2BoO0Q%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
-
+[【因果基础】Causality Basics，36页ppt](https://mp.weixin.qq.com/s/EefhDyiGR2ZT0u8dtCuQyQ)
 
 ## 国际顶刊/顶会
 
@@ -338,6 +388,8 @@
 
 
 [60+篇必看2020综述论文《GNN/深度学习/机器学习/知识图谱/NLP/CV》大集合](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247536073&idx=8&sn=97c3e8c7beb8f746bde93c1e10b8bd19&chksm=fc86acdacbf125ccea6503df7d5a370810750a6c82054789831f441b01a91750d9c5bdb4248c&mpshare=1&scene=1&srcid=0830cWQb8ySwkjSjzfofRoWh&sharer_sharetime=1598774959851&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=909afa0d496e3a5db699a391db48935ade06d6a0adb78c38a6c113501ce3f43934bb50fea70cbaae456389d67baa1bc826bf5a3707010b00520095c3d33fae185b00cea7fde4e135734e958fa47d25b713e7c114fdee5eb012da76138ea45e7fb40a87d9b2584bf56e34f7631c18f48f5b5dac4f8b4e22404efd0ecde113d488&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AaD4jq6IndD7yGcc548Cud0%3D&pass_ticket=CT%2FtNsigqU4GlmeEE%2F63UrP4PVqueM2p%2BkNOSKyeqGIYMtfxwnIoC58RFsLaltUQ)
+
+[CVPR'22 最新132篇论文分方向整理｜包含目标检测、图像处理、医学影像等28个方向](https://mp.weixin.qq.com/s/wU-zHCqSiMEMJcv5RThe8w)
 
 ## 目标识别/检测（region level）
 
@@ -406,6 +458,21 @@
 
 [NeurIPS 2020 | Focal Loss改进版来了！GFocal Loss：良心技术，无Cost涨点！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247508985&idx=3&sn=786a36631f0b0421e07917d04f2e2c54&chksm=f9a1d176ced65860d5b89721178e962a56a3390279096be5033002984bcff237d1fe954d6b8e&mpshare=1&scene=1&srcid=1101GRQPJFyKuJ81HsIXfN0V&sharer_sharetime=1604203733908&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=f8fcfe1a6c069eef8fc1c5489e93bc66381657dc2069325fb93fdc88b7a52e48aeaf7afc9fe55ab211d2ae6dc6b66fc0a90248fa96aca0ea9326157a42e4d3ae19c4db97cad6932a96fbdd3c4def46133ee653d81d5592aa6455f74682156758793625a98d8d4ad4f0551fa691cdbc1f0e301c5094e60e92746bd8e6fcea281c&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AfIjgByj8zIPp%2F9NOPFgB9Y%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
+
+[RS Loss：目标检测和实例分割的新损失函数](https://mp.weixin.qq.com/s/8TzqOdtiJFTPKFnyXwG8bg)
+
+[复旦&港大提出GraphFPN：用图特征金字塔提升目标检测性能](https://mp.weixin.qq.com/s/Nw26bbTGTq79tlyZB5CSuw)
+
+[港大&武大提出DetCo：用于目标检测的无监督对比学习](https://mp.weixin.qq.com/s/K3yS0aSLuQOC2MZqSlVD1Q)
+
+[CGPS：首个弱监督/无监督的行人搜索框架](https://mp.weixin.qq.com/s/eD4K1XHrj1NgFsOVFKbMHg)
+
+
+[【CVPR2022】GaTector：凝视对象预测的统一框架](https://mp.weixin.qq.com/s/8z0qx4lRSubfGBfQzxzLHg)
+
+[【CVPR2022】基于鲁棒区域特征生成的零样本目标检测](https://mp.weixin.qq.com/s/BW9YiFcTE2OdTkcIHt3SRw)
+
+
 ## 图像分割（pixel level）
 
 
@@ -443,6 +510,9 @@
 
 
 [全球顶会论文审稿人带你7天玩转图像分割](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247510059&idx=1&sn=b909d70769da99e5ca3d1fb55e7858d8&chksm=f9a1daa4ced653b2d1703f5f63c6c683702b26228d471cb5ed39f86041a6580f9fc8d5d59111&mpshare=1&scene=1&srcid=1101GYw85ZUtZTtFhW9uyNIs&sharer_sharetime=1604202938356&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=909afa0d496e3a5d4f1e9b02ab91d2033f5eb812809e795c8f444ef30dc8bc4136f71810b173909938a52b813992e9074a1bffd74aa71a446ff3f66523f36953c9c94b8f555d2f1eab6fe53e67d4f4a9c1556faf18088d1ad5bcc72d7dab42dc548428d2bf063a469e50dfadb3a632d12493d7d13bbb84a4224b63d1450cc6b6&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AY6zl4yfbUgnJrbnasYYLrQ%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
+
+[UN-EPT：用于语义分割的统一高效金字塔Transformer](https://mp.weixin.qq.com/s/8bJ8R3wVeH-jAjd6S6aHDw)
+
 
 ## 行为识别/自然语言处理（sequence level）
 
@@ -505,6 +575,17 @@
 [计算机视觉"新"范式: Transformer【NLP】](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247509943&idx=3&sn=66ecc0eba7e4fc06aade74d8ab3530bb&chksm=f9a1d538ced65c2e698fdcdd3dc1efdc00f03c758d48b2a4766dc7655b249553848330b29844&mpshare=1&scene=1&srcid=1101Me8VWbK1ZdptXa0qKUNf&sharer_sharetime=1604203163648&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=8bc8ac599537b085d592eb145409480bd403eb06e93f79e571ffbb550cbf6158755f586bd255c0b7c74e54f5c892c875887a039e7820b906716af4840e0d0a6bc90a3e90924e32e3e869bd78087b56c9aea64b9d9403d7576d77ed1c2a9da1782f27f95f2d732e88662fca79c866455aae2141128f9c1d81ad223eeadb77185f&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AYoMgAF9kxv4MSOoGNBdRbw%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
 [图解Transformer【NLP 自监督学习】](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247539981&idx=7&sn=07b00654c6f38d743a91b39d33d68d6a&chksm=fc86bc1ecbf135087d885408704ff90c95562c00108bcad7ded93fb468edd6534010e709299f&mpshare=1&scene=1&srcid=11018BDDd5SD2ZUZcdem4eL5&sharer_sharetime=1604220196768&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=8bc8ac599537b085844486ee4894ab8d25dc635dbf7a3520beb4475d898b4238165cbe229105ba300e5693ca79df0ae12e142eed3af8d2f4cfe9f942b1bcb685384adc2cecbe63eaf7a284e507d6a77181351866d22264f1ed9ce453589a9f3d435e009705178ba598d22dda3e6cd026c775c58acb812373ad38ddda4f71a6ea&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=ASnIN7%2BFglNtOniPxoKP8fQ%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
+
+[视觉推理解释框架VRX：用结构化视觉概念作为解释网络推理逻辑的「语言」](https://mp.weixin.qq.com/s/WHQbQSFpKdoS7KRn8NNB8g)
+
+[CVPR2022 | 多模态Transformer用于视频分割效果惊艳](https://mp.weixin.qq.com/s/Ob_huTJbKdL0Ak8aDeZQdg)
+
+[TPAMI 2022 | 最新综述：基于不同数据模态的行为识别](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247600071&idx=4&sn=171793d2f9836dd6816306e99aac0fb6&chksm=fc87a6d4cbf02fc2f3001b0383404536e196a5483cde409448bf9642ed4c11f2c0b27624bf09&scene=126&&sessionid=1660296504#rd)
+
+[国防科大最新《深度学习视觉语音分析》综述论文，20页pdf涵盖200篇文献阐述视觉语音识别与生成技术进展](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247596095&idx=1&sn=d4e7e7a15fba2609397dfee69aa4c759&chksm=fc87992ccbf0103a2dcfcecfc3b2902bb750457f413bfdc1099c5a147a2e5dee9b620fbe15a5&scene=126&&sessionid=1660298412#rd)
+
+[上交卢策吾团队《自然》：机器视觉行为理解与脑神经有内在关联？构建映射模型](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247592687&idx=4&sn=bb830d3ce0038a8e34573fa5455a799f&chksm=fc878bfccbf002ea1bd73ebf406146b2a790dadc2da14ae8fb087f7f7f2df76e9b39dbf9ee36&scene=126&&sessionid=1660299502#rd)
+
 
 ## 图深度学习/因果推理
 
@@ -662,6 +743,39 @@
 
 [「因果性机器学习」书册，88页pdf概述机器学习中的因果推理](https://mp.weixin.qq.com/s/5cbV5he0hY0Q14NDU1yK9g)
 
+[STTran：用于视频场景图生成的时空上下文Transformer](https://mp.weixin.qq.com/s/HthQ1fKI3hjXbUuEfeDELQ)
+
+[MSRA提出用于图结构数据的Graphormer！斩获OGB-LSC图预测赛道冠军](https://mp.weixin.qq.com/s/b3R7im1u70I7Zk6GW5nUsQ)
+
+[因果推理如果落地？看这份KDD2021微软/uber《因果推理机器学习:CausalML与EconML》教程，附Slides](https://mp.weixin.qq.com/s/fhuZnZGSUP9xzoTDLckXoQ)
+
+[腾讯AI Lab、清华共同发布《几何等变图神经网络》综述论文, 全面阐述GEGNN机构与任务](https://mp.weixin.qq.com/s/H6BU-lw0dLjeTarVDF-sUQ)
+
+[2022图神经网络5篇最新的研究综述：双曲/图分类/联邦/等变/异质性](https://mp.weixin.qq.com/s/MBc2rL4IWgqSRFjEjkSFrA)
+
+[【上海交大ICLR2022】从因果不变性视角探讨图神经网络的分布外泛化鲁棒性](https://mp.weixin.qq.com/s/ie_iSKHbHluCUyKDqQB-gA)
+
+[清华崔鹏等Nature子刊最新论文：稳定学习建立因果推理和机器学习的共识基础](https://mp.weixin.qq.com/s/dZxBXgwNIfkMqhH9D-txEA)
+
+[NeurIPS 2021开会了！新加坡国立大学Wee Sun Lee：机器学习中的消息传递机制-从图模型到GNN，95页ppt](https://mp.weixin.qq.com/s/aRL-G5ui04T4t_FixeA2Tg)
+
+[GNN如何用于因果推断？TU&DeepMind-AAAI2022投稿论文《关联图神经网络与结构因果模型》阐述基于GNN的因果推理](https://mp.weixin.qq.com/s/i7U1EkLsM92rbRDJVp_djA)
+
+[《图自监督学习》最新综述，数据挖掘领域大师俞士纶团队新作，25页pdf160篇文献](https://mp.weixin.qq.com/s/6ggq_GoHllYO2t4nr2xzkA)
+
+[【ICML2022】基于随机注意力机制的可解释和广义图学习](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247604399&idx=6&sn=79d25e9ee8b4d18c0870ac10f22e580c&chksm=fc87b9bccbf030aaa1e77ea11c4aead4be95b0882dad9dac43de1f6496ed41530a9724d4749c&scene=126&&sessionid=1660287325#rd)
+
+[【ECCV2022】用于视频问题回答的视频图Transformer](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603933&idx=4&sn=51cf0b828af86a82bda316f8d8b614cd&chksm=fc87b7cecbf03ed8ac44c8dda0f177ff20adf426987b6608f5532cb8f12ae8b0e7db9c5569fe&scene=126&&sessionid=1660287325#rd)
+
+[【ICML2022】常识因果关系的因果推理原则](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247602986&idx=6&sn=b50dd56b1988010a925368de884cf5c9&chksm=fc87b239cbf03b2f8dde1b980a69e74b13800fbbfaac1055b72ae0016d569a2262971b42c89b&scene=126&&sessionid=1660293860#rd)
+
+[什么是因果深度学习？DeepMind最新ICML2022《因果性与深度学习:协同、挑战和未来》教程，183页ppt详述因果DL](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247602364&idx=1&sn=34044d2218c4378be79e1a1c4c5434f2&chksm=fc87b1afcbf038b9121815d131c8b9143163beca7115e128fda641020488c6a0556e604289bb&scene=126&&sessionid=1660295580#rd)
+
+[【ICML2022】因果Transformer:估算反事实结果的因果, 附ppt](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247602214&idx=5&sn=e6fecf100abd0f1ddf2c66c230ce763c&chksm=fc87b135cbf038235e6d2c3972cc8d00faa75afce2340bf61eed68f828eb50a3ed32754d2a72&scene=126&&sessionid=1660295580#rd)
+
+[什么是因果机器学习？UCL&牛津大学最新《因果机器学习》书册，165页pdf阐述因果机器学习体系](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247599933&idx=1&sn=141b1907fee4441b171ea6dbd03bf995&chksm=fc87a62ecbf02f3864f8ef35db731ddc3cb27dba4b88f3834c5dc82449c5b2a7cd536d984ade&scene=126&&sessionid=1660296504#rd)
+
+
 
 ## 小样本/迁移学习/元学习
 
@@ -712,6 +826,71 @@
 
 [对比学习和项目实践【判决式 无监督学习】](https://zhuanlan.zhihu.com/p/374746454)
 
+[自监督学习新思路！S2-BNN：基于蒸馏的自监督学习算法](https://mp.weixin.qq.com/s/O01zKOsH__UaGs6sBeUs4g)
+
+[当Transformer遇见自监督学习！Facebook重磅开源DINO](https://mp.weixin.qq.com/s/hXgPglfQCRpzpXoGEWL1AA)
+
+[何恺明团队提出MoCo v3：训练自监督视觉Transformer的实证研究](https://mp.weixin.qq.com/s/Hq1vkvxZDuOLkAqDX_6dNQ)
+
+[【TPAMI2021】视觉智能的知识蒸馏与师生学习:回顾与展望, 20页pdf与218篇文献](https://mp.weixin.qq.com/s/73N_SyQ9k_q3y1X09zs6vg)
+
+[【YannLecun最新报告】自监督学习与能量模型，附99页ppt与视频](https://mp.weixin.qq.com/s/TswtBspQ5O5xtBrxhA5c7Q)
+
+
+[一文解决样本不均衡（全）](
+https://mp.weixin.qq.com/s/EgjSm8WZDG9FWUiUumByKA
+
+[超越传统微调！Meta新作VPT：视觉Prompt来了！冻结主干，仅调节1%参数，性能提升显著！](https://mp.weixin.qq.com/s/LGjOwQsPDretjFpj8yzgBw)
+
+[一文掌握《对比学习（Contrastive Learning）》要旨，详述MoCo和SimCLR算法](https://mp.weixin.qq.com/s/2a6xKL61u0M6mD1UMJjV3Q)
+
+[【ICML2021】 具有局部和全局的自监督图表示学习](https://mp.weixin.qq.com/s/-otkGi1Rx1uWPR7DL7aK1A)
+
+[自监督如何做推荐？昆士兰大学最新《自监督学习推荐系统》综述论文，阐述对比、生成、预测和混合四大类方法](https://mp.weixin.qq.com/s/rHFCZC1JUSvyrWiwYITfNQ)
+
+[蒙特利尔最新《自监督少样本目标检测》，20页pdf131系统性阐述少样本和自监督的目标检测研究进展](https://mp.weixin.qq.com/s/wd_3TTnEZbL9oZK9J_mT0A)
+
+[何恺明最新一作论文：简单实用的自监督学习掩码自编码MAE，ImageNet-1K 87.8%！CVPR 2022最佳](https://mp.weixin.qq.com/s/EiUu1K-khlHjjg_sgkjrmw)
+
+[【TPAMI2021】视觉智能的知识蒸馏与师生学习:回顾与展望, 20页pdf与218篇文献](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247565060&idx=1&sn=cf7705976b3d7abde0464ef77694a9d3&chksm=fc871e17cbf097010c6e3595872837b06938eb8b04b7dd112b3e6130bbd60624aa50ee0ab659&scene=21#wechat_redirect)
+
+[【ICML2021】教师-学生设置中的持续学习:任务相似性的影响](https://mp.weixin.qq.com/s/6QcTDIX2bL0fdxvqw1Bx5A)
+
+[南大发布首篇《健壮深度半监督学习》综述论文，全面阐述现有RDSSL中分布、特征与标签损坏方法体系与进展](https://mp.weixin.qq.com/s/xRjrj8knt8Y4Q28eMgIYvQ)
+
+[Lehigh大学Zhang Youshan《视觉识别的无监督域适应》研究综述论文](https://mp.weixin.qq.com/s/wGAhXUCfJYAybkb1oB9Yow)
+
+[OpenAI-Lilian Weng等：自监督学习与对比学习，NeurIPS 2021教程|105页ppt](https://mp.weixin.qq.com/s/--HLpgVL6qmfzrTa5K2-gQ)
+
+
+
+[自监督学习未来是掩码自编码器？KAIST最新《自监督学习掩码自编码器》研究进展](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247604025&idx=1&sn=2dc05065bd6de0b587719242f9c70d55&chksm=fc87b62acbf03f3cf969830b603a85813177715adc20ba533918b7cc23fb555bc62bc57ecd9e&scene=126&&sessionid=1660287325#rd)
+
+[小数据如何学习？吉大最新《小数据学习》综述，26页pdf涵盖269页文献阐述小数据学习理论、方法与应用](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603652&idx=1&sn=f27fb80c1f1b41bd3aac0bce6cce1256&chksm=fc87b4d7cbf03dc175ac756c6bfb35d9e5e240dfa3dc26999e2807e1060e67a74d54e644f060&scene=126&&sessionid=1660293860#rd)
+
+[【KDD2022】自监督超图Transformer推荐系统](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603652&idx=4&sn=3eb2e8184e27d276a5cc243f99a2c164&chksm=fc87b4d7cbf03dc109a7b0f0bd1eb8969617afdda92f9044ba1b7df0c649fef95c0d37e6989a&scene=126&&sessionid=1660293860#rd)
+
+[小目标如何检测？西工大韩军伟等发布《大规模小目标检测》综述，20页pdf全面阐述小目标检测方法和自动驾驶与空中场景基准数据集](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603442&idx=1&sn=55ac69bf1e2d29f2eb397443e81b3373&chksm=fc87b5e1cbf03cf798d5d397654400d918a68ca7d53ac8ed0610cd3c1cfb7dc0bc1a87b99a20&scene=126&&sessionid=1660293860#rd)
+
+[【ECCV2022】对比视觉Transformer的在线持续学习](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603442&idx=7&sn=1e02c08462946815db4083c65773177a&chksm=fc87b5e1cbf03cf75f7176446c5d1c65376f2cc4ef3bbd8d28c69cb31a0f6d39414e723f5fea&scene=126&&sessionid=1660293860#rd)
+
+[【ICML2022】时序自监督视频transformer](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603186&idx=4&sn=d9c5f364d65b3c658dc73e72d648beb8&chksm=fc87b2e1cbf03bf7dcdd553221786451d4aa4acf6f616025bc191ac6c1d20c9d703481209b9d&scene=126&&sessionid=1660293860#rd)
+
+
+[视频自监督学习综述](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247600413&idx=4&sn=77d2f5278b45f555fa919e09195b562a&chksm=fc87a80ecbf02118f38e2d367531e355eca5c62ee1b5066eb7a05b89bbe8c488f8bd95b10dca&scene=126&&sessionid=1660296138#rd)
+
+[【ICML2022】长尾识别中分布外检测的部分和非对称对比学习](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247600413&idx=5&sn=1da09b78614eeb0179ae4803534ef1a4&chksm=fc87a80ecbf02118f79b8df9bdc52979c47177bc28ab333aa0a35b873a64a2a957c8e21fe116&scene=126&&sessionid=1660296138#rd)
+
+[【KDD2022】基于对抗性知识蒸馏的深度图神经网络压缩](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247597576&idx=6&sn=2da062fad997a9f3c2e158eae54431a7&chksm=fc879f1bcbf0160d6c207ec89762ef7ec13de0eb7334ad055ecf3f8e254931cace593bc22cab&scene=126&&sessionid=1660297773#rd)
+
+[【ICML2022】MetAug:通过元特征增强的对比学习](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247595645&idx=6&sn=12f5a999c0729b76de8b76a0ceccf911&chksm=fc87976ecbf01e7873b7cbde3a290163ac8f079862d058ac3e53a38917d1fb3647b476704f91&scene=126&&sessionid=1660298763#rd)
+
+[小样本研究2022进展到哪了？华东师大最新《少样本学习》全面综述，从近三年200篇文献阐述小样本学习的演变、应用、挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247595560&idx=1&sn=f9430b0d5b7982e8b587b8f806367170&chksm=fc87973bcbf01e2d7f04dfa1314a4c78fce4a55bb82dacd0d027af67c2fd0babacc3ea6286e8&scene=126&&sessionid=1660298763#rd)
+
+[主动学习(Active Learning)，看这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247593988&idx=7&sn=67f6eb14698b204dc626046b6ede4072&chksm=fc879117cbf018018b137064d636b06c896b7f3b283d9b668e0b9a6506521fe5c8440fdb3048&scene=126&&sessionid=1660299279#rd)
+
+[【CVPR2022】视频对比学习的概率表示](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247592286&idx=7&sn=af659b8fc5f1adb5c1b3a3066864890f&chksm=fc87884dcbf0015b5c0197e370ac7ad143d7f3d50f3a908623458d5b8bdc6820a7429fce871f&scene=126&&sessionid=1660299738#rd)
+
 ## 测度学习/异常
 
 [CVPR2019 | 物体为中心的自编码器与伪异常的视频异常检测](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247490560&idx=4&sn=c20326f9c1377b2015063bb22413f34e&chksm=f9a26e8fced5e79906c20a3b2ea2fe9132b2bc8b3bc0f549979dd309f94fd390906418f30d77&mpshare=1&scene=1&srcid=&sharer_sharetime=1564208404201&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=4d34922259ab8d295446f4b94ec40d5efb5c4159498dfddbc133a1a46dd6ac511622856c9a1851568698fb0c6c90593d6e5ffcfe00c7f7be89f7d6105b32af8b7b4170c6459910757567c38207a5c2d3&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=3jhFdV%2FdaShqI7A03y4H6z1I7e4ZJ0jN5kD24TkWfUVHPtbURZT8l7Nr4B6pk9rq)
@@ -736,6 +915,12 @@
 [附特征工程电子书178页pdf下载](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247539096&idx=4&sn=643e92f2cf596420d197387daac00514&chksm=fc86b88bcbf1319d3696e82989e3002f7d281d01124caed969a442ac8e01b69992bf9e9b6fbc&mpshare=1&scene=1&srcid=11014qx9myAu0H7AxUyQ1G4f&sharer_sharetime=1604221207296&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=f8fcfe1a6c069eefdd1daca2bd5c669b6333976cf307ca5aed45af363e64233c44677ffcea9ff908070f040b2ce4765914aef04a4fcfec76aee84dc9d7bea51fd309c1a1349264731ca7e0f3c4c8ffe0305fb0541237ab670af2dda0e9ca0ab10be35df076348eb7b9433d29aff38b6dff7e9e5162ddbdfa0e6c252c71e35f6d&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=Ad%2BWdW6d7zER7VgSr35Rhf4%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
 [「图像视频深度异常检测」简明综述论文](https://mp.weixin.qq.com/s/ZVWxpZPCoUvzZH6F0YkjNg)
+
+[基于深度学习的图异常检测技术综述](https://mp.weixin.qq.com/s/7yg8v8z93ww3dFirVjQw9g)
+
+[熊辉等首篇 「深度学习图异常检测」综述论文，176篇文献全面概述GAD技术](https://mp.weixin.qq.com/s/EyzkRLYWFpjceaZlWr4U4g)
+
+[GAN如何异常检测？最新《生成式对抗网络异常检测》综述论文，概述异常检测的典型GAN模型](https://mp.weixin.qq.com/s/yOoDkTyZMmaFygt5MiGWtw)
 
 
 ## 强化学习
