@@ -326,6 +326,7 @@
 
 [【何恺明组新论文】MAE视频表示：掩码自编码器作为时空学习器](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247595645&idx=5&sn=633846d5b4ce64bcea053a3a455bfa5c&chksm=fc87976ecbf01e781c73be4d320b60414970fd8901fbee75c85444f36b50514a47cb832a8715&scene=126&&sessionid=1660298763#rd)
 
+[最近大火的“扩散模型”首篇综述来了！北大最新《扩散模型:方法和应用》综述](https://mp.weixin.qq.com/s/H8Jwmrk4eiuF1ECEUlyshQ)
 
 ## 课程/教程
 
@@ -354,6 +355,9 @@
 [贝叶斯和深度学习如何结合？看这份CIKM2020《神经贝叶斯信息处理》教程，220页ppt，国立交通大学](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247539706&idx=1&sn=d1a5f25e8754068fc15d5f05b79ddbe0&chksm=fc86bae9cbf133ffa2a4423824a145126ac59a7b747b676eca4eefbade5a9796c25c3db799c2&mpshare=1&scene=1&srcid=1101Qr7q1VGLuNm4cZRO0oos&sharer_sharetime=1604220273774&sharer_shareid=b65990ef06a1d58e4088987a68bb60c6&key=3802bbcd5b9ad3c89901796176fbbeaf9d7eeeb8ec62a298a7abd32e1bb240d433eb64eced95f319cd9ea400c8f7794c698d547cc33f18949a4bb7300148214a777840cfa7ad380bf1bb16526a478d990fb034ce807e0fec8fd87d49569ccb550bb0ce07469eda0c4fb8869bfe7db9b002d154b5d09ee77993bc780805276523&ascene=1&uin=ODQ0MTE4MTAw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AaGIdupSg5yYRO4iCB%2BoO0Q%3D&pass_ticket=6LVduv883S%2FY1zyNlmYKbBSxSuBezeXHkLNqUvMdF3kjHudtwypyDtVo90YZwHpS&wx_header=0)
 
 [【因果基础】Causality Basics，36页ppt](https://mp.weixin.qq.com/s/EefhDyiGR2ZT0u8dtCuQyQ)
+
+[【KDD2022教程】在线聚类:算法、评估、指标、应用和基准](https://mp.weixin.qq.com/s/Tnugc9cu3nsF2qz5kxWpvA)
+
 
 ## 国际顶刊/顶会
 
@@ -586,6 +590,8 @@
 
 [上交卢策吾团队《自然》：机器视觉行为理解与脑神经有内在关联？构建映射模型](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247592687&idx=4&sn=bb830d3ce0038a8e34573fa5455a799f&chksm=fc878bfccbf002ea1bd73ebf406146b2a790dadc2da14ae8fb087f7f7f2df76e9b39dbf9ee36&scene=126&&sessionid=1660299502#rd)
 
+[语音如何自监督学习？306页ppt！李宏毅等](INTERSPEECH2022https://mp.weixin.qq.com/s/a3POmRAnUwOVf5OXdUPUJg)
+
 
 ## 图深度学习/因果推理
 
@@ -776,6 +782,35 @@
 [什么是因果机器学习？UCL&牛津大学最新《因果机器学习》书册，165页pdf阐述因果机器学习体系](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247599933&idx=1&sn=141b1907fee4441b171ea6dbd03bf995&chksm=fc87a62ecbf02f3864f8ef35db731ddc3cb27dba4b88f3834c5dc82449c5b2a7cd536d984ade&scene=126&&sessionid=1660296504#rd)
 
 
+[NeurIPS2022｜图对比学习的结构公平性初探](https://mp.weixin.qq.com/s/y_55Uu2FbZD-GqOrYg3ozQ)
+
+[【NeurIPS 2022】带有自适应节点采样的层次图Transformer](https://mp.weixin.qq.com/s/39Od7uYNITJkfUa2TH_beA)
+
+[【NeurIPS2022】图谱视角下的图对比学习](https://mp.weixin.qq.com/s/rxjlm9P1Uh5nwWmAtUuC7A)
+
+[GNN如何异常检测？首篇《图神经网络图异常检测》综述](https://mp.weixin.qq.com/s/nLGXYE_QomiYM6bJ6IN3gg)
+
+[如何生成“好”的图？【TPAMI2022】面向图生成的深度生成模型系统综述](https://mp.weixin.qq.com/s/aqIeqHoeJtRyh3B5dhhcDA)
+
+
+[GNN与Transformer在CV中怎么用？ 香港大学最新《图神经网络和图Transformers在计算机视觉应用》综述](https://mp.weixin.qq.com/s/vdHD3jPEarlvkBbWxe4umw)
+
+
+[深度学习和因果如何结合？北交最新《深度因果模型》综述论文](https://mp.weixin.qq.com/s/4OQWKqaqjaEuv0JD9ocxAw)
+
+
+[西安交大最新《深度学习因果发现》综述论文](https://mp.weixin.qq.com/s/pm_ysLX8MqhnqK-6t0BjQA)
+
+
+[147页PPT详解因果深度学习，图灵奖Yoshua Bengio最新UAI2022「因果性与深度学习:协同、挑战和未来》教程](https://mp.weixin.qq.com/s/D3QRRvywCDeILHpSHwq-rw)
+
+
+[【ICML2022】熵因果推理:图的可辨识性](https://mp.weixin.qq.com/s/is0MxkBvQCVZPFKFNJV-0g)
+
+
+[爱丁堡大学最新《因果机器学习: 医疗健康与精准医疗应用》2022综述](https://mp.weixin.qq.com/s/j08U7O8ZBQW-SvJJtNBX6Q)
+
+
 
 ## 小样本/迁移学习/元学习
 
@@ -890,6 +925,14 @@ https://mp.weixin.qq.com/s/EgjSm8WZDG9FWUiUumByKA
 [主动学习(Active Learning)，看这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247593988&idx=7&sn=67f6eb14698b204dc626046b6ede4072&chksm=fc879117cbf018018b137064d636b06c896b7f3b283d9b668e0b9a6506521fe5c8440fdb3048&scene=126&&sessionid=1660299279#rd)
 
 [【CVPR2022】视频对比学习的概率表示](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247592286&idx=7&sn=af659b8fc5f1adb5c1b3a3066864890f&chksm=fc87884dcbf0015b5c0197e370ac7ad143d7f3d50f3a908623458d5b8bdc6820a7429fce871f&scene=126&&sessionid=1660299738#rd)
+
+[“小”标记图数据如何学习？KDD2022最新《图最小监督学习》教程](https://mp.weixin.qq.com/s/JkuEvSN0vtVg8hB5wXAcKA)
+
+
+
+[【CIKM2022】基于双向Transformers对比学习的序列推荐](https://mp.weixin.qq.com/s/YA2W0uOz-UOeYGvGC7gNwg
+)
+
 
 ## 测度学习/异常
 
