@@ -15,7 +15,7 @@
 ### 13、[强化学习](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)  
 ### 14、[GitHub集合](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#github-%E9%9B%86%E5%90%88)  
 ### 15、[学术论文写作](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C)
-### 16、[产业](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C)
+### 16、[产业](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%4E%A7%4E%1A)
 
 ## 机器学习/人工智能-入门
 [机器学习标准教科书PRML的Python实现：最佳读书伴侣](https://www.jiqizhixin.com/articles/2017-11-27-3)  
