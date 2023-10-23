@@ -15,6 +15,7 @@
 ### 13、[强化学习](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)  
 ### 14、[GitHub集合](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#github-%E9%9B%86%E5%90%88)  
 ### 15、[学术论文写作](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C)
+### 16、[产业](https://github.com/wukewei1984hfut/-cvnews-github/blob/master/README.md#%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C)
 
 ## 机器学习/人工智能-入门
 [机器学习标准教科书PRML的Python实现：最佳读书伴侣](https://www.jiqizhixin.com/articles/2017-11-27-3)  
@@ -112,6 +113,18 @@
 
 [浙江大学等最新《深度聚类》综述，35页pdf涵盖246篇文献概述深度聚类体系挑战与未来方向](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247598620&idx=1&sn=9e04ebb53cdd1f0fcaac9dcb24d652ff&chksm=fc87a30fcbf02a19a6211720f9b4f99ff282ee507ea92c583a0db2d4fac08879d6f3f9d761e0&scene=126&&sessionid=1660297027#rd)
 
+[去噪:有监督、自监督和无监督，57页ppt]
+(https://mp.weixin.qq.com/s/CiCP8TPDLHv1f68wJKcF3g)
+
+[【CVPR2023】基于梯度不确定性归因的可解释贝叶斯深度学习]
+(https://mp.weixin.qq.com/s/iXE-yPUdeD4EdtAwPB0k-w)
+
+
+[源域无数据域适应怎么做? 电子科大最新《无源域数据域适应》综述论文，详述基于数据和基于模型SFDA技术进展]
+(https://mp.weixin.qq.com/s/4xeHZ__Wt4iiuE7G89JFBQ)
+
+[清华最新《持续学习》综述，32页pdf详述持续学习理论、方法与应用综述]
+(https://mp.weixin.qq.com/s/SGlUFOVJkWcpueaqzjWiyw)
 
 ## 深度学习-入门
 
@@ -326,7 +339,51 @@
 
 [【何恺明组新论文】MAE视频表示：掩码自编码器作为时空学习器](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247595645&idx=5&sn=633846d5b4ce64bcea053a3a455bfa5c&chksm=fc87976ecbf01e781c73be4d320b60414970fd8901fbee75c85444f36b50514a47cb832a8715&scene=126&&sessionid=1660298763#rd)
 
+
 [最近大火的“扩散模型”首篇综述来了！北大最新《扩散模型:方法和应用》综述](https://mp.weixin.qq.com/s/H8Jwmrk4eiuF1ECEUlyshQ)
+
+[Transformer如何做扩散模型（加噪与图像质量）？伯克利最新《transformer可扩展扩散模型》论文](https://mp.weixin.qq.com/s/DEQ7F9nzXSOPSjov4rSwHA)
+
+[什么是从模型中学习(LFM)? 武汉大学等《超越微调: 从模型中学习》综述，详述模型调整、模型蒸馏、模型重用、元学习和模型编辑]
+(https://mp.weixin.qq.com/s/ufpFK06JG3DHlM4lWmyhCw)
+
+[【NeurIPS2023】跨情境课程设计的Transformer智能体]
+(https://mp.weixin.qq.com/s/-oULhqUikP6QAoPuHkCpBg)
+
+[Transformer为什么有效？Google最新《揭示变换器中的台阶优化算法》解释]
+(https://mp.weixin.qq.com/s/CldXdJNMfXpwp5ARHmoCoQ)
+
+[《深度模型融合》综述]
+(https://mp.weixin.qq.com/s/2-ZOAi2qzpWcAjktgaPJOw)
+
+[中国科学院团队首篇《大语言模型LLM模型压缩》综述：细聊剪枝、知识蒸馏、量化技术]
+(https://mp.weixin.qq.com/s/tOxehTRVFQP83PIKbVJIig)
+
+[【ICCV2023】视觉Transformers的累积空间知识蒸馏]
+(https://mp.weixin.qq.com/s/1k0sEDiOGH0FpusNQmDYrw)
+
+[「视觉语言Transformers」最新2023研究综述]
+(https://mp.weixin.qq.com/s/bOdfwkSQt-53e7bjn6KC0w)
+
+
+[【CVPR2023】视觉Transformer学习长尾数据，解决不平衡标注数据]
+(https://mp.weixin.qq.com/s/mk-1nMqhZNGcpgFB5JGv_Q)
+
+[Transformer如何训得更快更好？莫纳什大学最新《Transformer高效训练》综述，详述训练Transformer技术]
+(https://mp.weixin.qq.com/s/VZIv90bPrqbKg9greJaJyw)
+
+[ICML2023 | 轻量级视觉Transformer(ViT)的预训练实践手册]
+(https://mp.weixin.qq.com/s/gkbVVmdOtSBbzLuHCyuO7g)
+
+[大模型如何适用长尾或特定领域？微软等提出《参数知识引导的增强大型语言模型》，扩展LLM的垂直化长尾适配能力]
+(https://mp.weixin.qq.com/s/-eIhP2B9q9FobbSq4fPBQg)
+
+
+[基于内在动机的深度强化学习探索方法综述]
+(https://mp.weixin.qq.com/s/ZfIvUT6o8R3exFg2YifQiA)
+
+[【2023新书】深度学习中的可解释性，486页pdf]
+(https://mp.weixin.qq.com/s/0cprRgK6pb39c0HT3u3X8Q)
 
 ## 课程/教程
 
@@ -357,6 +414,23 @@
 [【因果基础】Causality Basics，36页ppt](https://mp.weixin.qq.com/s/EefhDyiGR2ZT0u8dtCuQyQ)
 
 [【KDD2022教程】在线聚类:算法、评估、指标、应用和基准](https://mp.weixin.qq.com/s/Tnugc9cu3nsF2qz5kxWpvA)
+
+[【KDD2022教程】在线聚类:算法、评估、指标、应用和基准](https://mp.weixin.qq.com/s/Tnugc9cu3nsF2qz5kxWpvA)
+
+[什么是共形预测(conformal prediction)？LPSM最新《共形预测》教程，71页ppt]
+(https://mp.weixin.qq.com/s/ifA_wkrUG_wbQLCizp10wg)
+
+[视觉中怎么用提示？南洋理工CVPR2023《视觉提示》教程，附290页ppt]
+(https://mp.weixin.qq.com/s/IdtKmI5iOklPIa78MD6waw)
+
+[【WWW2023教程】持续图学习教程，106页pdf]
+(https://mp.weixin.qq.com/s/BYMRft72szzzdLbhn5_VSg)
+
+[【ICCV2023教程】自监督学习改进多模态大模型, 34页ppt，Ishan Misra@Meta]
+(https://mp.weixin.qq.com/s/QIBljtaGO18RQnFbY80sWg)
+
+[【VLDB2023教程】子图提取的机器学习：方法、应用和挑战，90页ppt]
+(https://mp.weixin.qq.com/s/AiQ_yYt43_Ve8NgZTIZ1iA)
 
 
 ## 国际顶刊/顶会
@@ -476,6 +550,8 @@
 
 [【CVPR2022】基于鲁棒区域特征生成的零样本目标检测](https://mp.weixin.qq.com/s/BW9YiFcTE2OdTkcIHt3SRw)
 
+[【CVPR2023】DynamicDet:目标检测的统一动态架构]
+(https://mp.weixin.qq.com/s/pn4w6KZwd2rNcG_Er8BBNA)
 
 ## 图像分割（pixel level）
 
@@ -810,6 +886,59 @@
 
 [爱丁堡大学最新《因果机器学习: 医疗健康与精准医疗应用》2022综述](https://mp.weixin.qq.com/s/j08U7O8ZBQW-SvJJtNBX6Q)
 
+[GNN与Transformer在CV中怎么用？ 香港大学最新《图神经网络和图Transformers在计算机视觉应用》综述](https://mp.weixin.qq.com/s/vdHD3jPEarlvkBbWxe4umw)
+
+[GNN如何异常检测？首篇《图神经网络图异常检测》综述全面阐述GNN图异常检测方法体系](https://mp.weixin.qq.com/s/nLGXYE_QomiYM6bJ6IN3gg)
+
+[NLP中如何处理因果性？EMNLP2022最新《自然语言处理因果关系导论》教程，180页ppt全面讲解因果发现和因果效应估计](https://mp.weixin.qq.com/s/h9ChAyzkl6MwVLV_mGghTQ)
+
+[什么是因果深度学习？DeepMind最新ICML2022《因果性与深度学习:协同、挑战和未来》教程，183页ppt详述因果DL](https://mp.weixin.qq.com/s/lHKmv71LjHkOA7-yIG07mg)
+
+[“In-context Learning”是什么？北大等最新《语境学习ICL》综述论文，详述ICL进展、挑战和方向](https://mp.weixin.qq.com/s/O9slLZq7pl_PGsJ0tUVzRQ)
+
+[《以数据为中心的图学习》综述]
+(https://mp.weixin.qq.com/s/Wk6hr6dfDUEvtOTt_ek4Ww?poc_token=HHiONGWj_w_crIsuEjHnpWS-rgyJ-t-vXoyx4V9j)
+
+[【CIKM2023】基于多节点中心子图的对比表示学习]
+(https://mp.weixin.qq.com/s/1yHGKWwkzG4TlHIrsfNi0Q)
+
+
+
+[图上的不均衡数据怎么处理？新加坡国立大学最新《不均衡图学习》综述，详述问题、技术和未来方向]
+(https://mp.weixin.qq.com/s/YN7yJj6ItzIvueJjYC42-w)
+
+[【ICCV2023】稳定且因果推断的自监督深度视觉表示判别方法]
+(https://mp.weixin.qq.com/s/yB9z4xDIlTFaup6H8LQ01Q)
+
+[西安交大等最新《鲁棒视觉问题回答》综述，20页pdf详述RVQA数据集、方法和未来挑战]
+(https://mp.weixin.qq.com/s/wM1e12qat_HQo2I-5Q6o0Q)
+
+[神经推理如何问答？ CMU-Haitian Sun博士论文《神经推理问答》，151页pdf全面阐述QA推理任务]
+(https://mp.weixin.qq.com/s/fdgL63dQsAuQG3IXCb2E2g)
+
+[【ICML2023】SEGA:结构熵引导的图对比学习锚视图]
+(https://mp.weixin.qq.com/s/uFNdra4tJStgv07oLAxI2g)
+
+
+
+[图上持续学习怎么做？ 悉尼大学等最新《 持续图学习:挑战、解决方案和机会》综述，附Slides]
+(https://mp.weixin.qq.com/s/ZeS-N4rskrbTdm09bcKOpw)
+
+
+[【ICML2023】图神经网络可以仅从图结构中恢复隐藏特征]
+(https://mp.weixin.qq.com/s/Nze5pUItcM8cngqf8CQMVQ)
+
+[图上如何建模因果性？PSU等最新《图反事实学习》综述，50页pdf全面综述图公平性、可解释性等方法]
+(https://mp.weixin.qq.com/s/J6i9D6mnLSIdK9k7dA9Now)
+
+[中科院计算所等最新《时态数据因果发现》综述，50页pdf详述多元时间和事件序列因果发现]
+(https://mp.weixin.qq.com/s/IvVt-5Nq4JkIRH3gC2PRrw)
+
+[AAAI2023|图对比学习的模型增强技巧]
+(https://mp.weixin.qq.com/s/y7k5tEOcfmjlFgp_qaxliw)
+
+[Graph Transformer近期进展]
+(https://mp.weixin.qq.com/s/ozfggZtr1sMSFv7u6LacQQ)
 
 
 ## 小样本/迁移学习/元学习
@@ -933,6 +1062,41 @@ https://mp.weixin.qq.com/s/EgjSm8WZDG9FWUiUumByKA
 [【CIKM2022】基于双向Transformers对比学习的序列推荐](https://mp.weixin.qq.com/s/YA2W0uOz-UOeYGvGC7gNwg
 )
 
+[自监督学习在CV进展？何恺明等最新ECCV2022教程《自监督表示学习计算机视觉研究》，全面讲述自监督视觉学习进展](https://mp.weixin.qq.com/s/Armc0qz-Vgn0OXLhLgKAIA)
+
+[最新《生成式数据增强的统一框架》综述，85页pdf]
+(https://mp.weixin.qq.com/s/OX3gBbd3QwoYE84UHvRiqQ)
+
+[【ICCV2023最佳论文】ControlNet: 为文本到图像扩散模型添加条件控制]
+(https://mp.weixin.qq.com/s/QNXOUbrxWF5oxTB1fXkwzg)
+
+[【NeurIPS2023】利用扩散模型进行异常值想象]
+(https://mp.weixin.qq.com/s/IhjF53KpyHWLl-Ar8YRm3g)
+
+[知识蒸馏的师生架构怎么设计？McGill大学等最新《知识蒸馏》综述，详述知识压缩、知识扩展、知识适应和知识增强的教师学生架构设计]
+(https://mp.weixin.qq.com/s/1EUBwZBgDt1nPaqRSlk6YA)
+
+[基于深度学习的类别增量学习算法综述]
+(https://mp.weixin.qq.com/s/JEXLgpnWOpZCzz6Docmxmg)
+
+[《生成式模型: 变分自编码器与扩散模型》，75页ppt，Google DeepMind科学家Ruiqi Gao]
+(https://mp.weixin.qq.com/s/R9Ynh-VILB-yiv0CRUCI-A)
+
+[扩散模型如何做推荐？【SIGIR2023】DiffRec: 扩散推荐模型]
+(https://mp.weixin.qq.com/s/-u9J2inaQlluo8WNqdaWUQ)
+
+
+[NLP+Diffusion=？UMN最新《NLP中的扩散模型》综述 ，全面阐述离散和嵌入扩散模型方法]
+(https://mp.weixin.qq.com/s/czNtFbXEjPUN6klCa1SWmA)
+
+[扩散模型和标准流如何用？阿姆斯特丹Emiel博士论文《离散数据和几何数据的标准流和扩散模型》171页pdf详述标准流和扩散模型]
+(https://mp.weixin.qq.com/s/h2VuLDDvcKEcTaRdH7Vpng)
+
+[【ICML2023】序列反事实风险最小化]
+(https://mp.weixin.qq.com/s/GOJl7YNKfKUUPXx9_b1qRw)
+
+[【CVPR2023】面向自监督视觉表示学习的混合自编码器]
+(https://mp.weixin.qq.com/s/FrQyT1cpZse50P6vGIIyQQ)
 
 ## 测度学习/异常
 
@@ -964,6 +1128,12 @@ https://mp.weixin.qq.com/s/EgjSm8WZDG9FWUiUumByKA
 [熊辉等首篇 「深度学习图异常检测」综述论文，176篇文献全面概述GAD技术](https://mp.weixin.qq.com/s/EyzkRLYWFpjceaZlWr4U4g)
 
 [GAN如何异常检测？最新《生成式对抗网络异常检测》综述论文，概述异常检测的典型GAN模型](https://mp.weixin.qq.com/s/yOoDkTyZMmaFygt5MiGWtw)
+
+[图学习如何检测异常？澳大利亚联邦大学最新《图学习异常分析:算法、应用与挑战》综述，阐述GCN/GAT/GAE等方法](https://mp.weixin.qq.com/s/mLT9yMmVzkF24PoaYLK-zg)
+
+
+[对比学习需要哪样的数据？UCLA最新ICML2023论文《数据高效对比学习：简单样本贡献最大》，探究量化样本对SSL的贡献度]
+(https://mp.weixin.qq.com/s/_ewefoiw6TLvG0CSkLCRVQ)
 
 
 ## 强化学习
@@ -1075,3 +1245,12 @@ https://mp.weixin.qq.com/s/EgjSm8WZDG9FWUiUumByKA
 
 [周志华教授：如何做研究与写论文](https://mp.weixin.qq.com/s/P2Vlf-KU5WC6ak3xHy12dQ)
 [ICCV 2021审稿结果出炉，有人已总结出了一份Rebuttal写作指南](https://mp.weixin.qq.com/s/Qtc4ALp-Db5KXo4spjgljw)
+
+## 16、产业
+
+
+[重磅！《2023人工智能发展白皮书》版本，118页pdf]
+(https://mp.weixin.qq.com/s/91fBe4nsjior0Es6vAGq0Q)
+
+[《中国人工智能人才学习白皮书》发布！]
+(https://mp.weixin.qq.com/s/LaVOnHZQTt0QU6KQoHMFXw)
